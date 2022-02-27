@@ -32,7 +32,7 @@ class WordList(List[Word]):
 
     @classmethod
     def load(cls, words: List[str]) -> WordList:
-        return cls([Word.from_string(word) for word in words])
+        return cls([Word.from_string(word) for word in sorted(words)])
 
     @classmethod
     def load_possible_words(cls) -> WordList:

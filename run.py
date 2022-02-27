@@ -27,7 +27,7 @@ def play_wordle():
             print_try(str(wordle.possible_words[0]))
             sys.exit()
 
-        if attempt == 1 and guess.__str__().split()[0] in ["soare"]:
+        if attempt == 1 and guess.__str__().split()[0] in ["roate"]:
             words_with_scores_2 = File.read_json("data/words_with_best_next_word.json")
             print_try(words_with_scores_2[guess.__str__()])
         else:

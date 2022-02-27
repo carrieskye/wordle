@@ -1,5 +1,3 @@
-from random import shuffle
-
 from skye_comlib.utils.file import File
 from tqdm import tqdm
 
@@ -11,7 +9,6 @@ from src.wordle import Wordle
 def primary_scores():
     wordle = Wordle.load_from_file()
     words_with_scores = File.read_json("data/words_with_scores.json")
-    shuffle(wordle.allowed_words)
     for allowed_word in tqdm(wordle.allowed_words, desc="Calculating scores"):
         if allowed_word.__str__() in words_with_scores:
             continue
@@ -48,5 +45,5 @@ def secondary_scores():
 
 
 if __name__ == "__main__":
-    primary_scores()
-    # secondary_scores()
+    # primary_scores()
+    secondary_scores()
