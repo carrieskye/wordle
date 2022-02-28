@@ -1,4 +1,4 @@
-import sys
+from typing import List
 
 from rich import print as print_rich
 from skye_comlib.utils.file import File
@@ -11,27 +11,27 @@ def print_try(word: str):
     print_rich(f"Try [bold cyan]{word}\n")
 
 
+def get_key(guesses: List[GuessWord]) -> str:
+    return ";".join([x.__str__() for x in guesses])
+
+
 def play_wordle():
     wordle = Wordle.load_from_file()
     wordle.print_possibilities()
-    words_with_scores = File.read_json("data/words_with_scores.json")
-    print_try(list(words_with_scores.keys())[0])
-
-    attempt = 0
-    while len(wordle.possible_words) > 0:
-        attempt += 1
+    guesses = []
+    best_next_words = {
+        x["guess_word"]: x["best_next_word"]
+        for x in File.read_csv("data/best_next_words.csv")
+    }
+    while len(wordle.possible_words) > 1:
+        try:
+            print_try(best_next_words[get_key(guesses)])
+        except KeyError:
+            print_try(str(wordle.get_allowed_words_sorted()[0]))
         guess = GuessWord.from_input()
+        guesses.append(guess)
         wordle.remove_wrong_words(guess)
         wordle.print_possibilities()
-        if len(wordle.possible_words) <= 2:
-            print_try(str(wordle.possible_words[0]))
-            sys.exit()
-
-        if attempt == 1 and guess.__str__().split()[0] in ["roate"]:
-            words_with_scores_2 = File.read_json("data/words_with_best_next_word.json")
-            print_try(words_with_scores_2[guess.__str__()])
-        else:
-            print_try(str(wordle.get_allowed_words_sorted()[0]))
 
 
 if __name__ == "__main__":

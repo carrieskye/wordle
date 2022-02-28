@@ -1,0 +1,2929 @@
+round,guess_word,best_next_word,no_of_possibilities
+0,,roate,2315
+1,roate 00000,slimy,195
+2,roate 00000;slimy 00000,hanap,5
+3,roate 00000;slimy 00000;hanap 10000,chuck,1
+3,roate 00000;slimy 00000;hanap 10100,chunk,1
+3,roate 00000;slimy 00000;hanap 10200,bunch,1
+3,roate 00000;slimy 00000;hanap 10201,punch,1
+3,roate 00000;slimy 00000;hanap 20200,hunch,1
+2,roate 00000;slimy 00002,phang,12
+3,roate 00000;slimy 00002;phang 00000,buddy,2
+4,roate 00000;slimy 00002;phang 00000;buddy 02002,fuzzy,1
+4,roate 00000;slimy 00002;phang 00000;buddy 22222,buddy,1
+3,roate 00000;slimy 00002;phang 00001,buggy,1
+3,roate 00000;slimy 00002;phang 00010,funky,1
+3,roate 00000;slimy 00002;phang 00020,bunny,2
+4,roate 00000;slimy 00002;phang 00020;bunny 02222,funny,1
+4,roate 00000;slimy 00002;phang 00020;bunny 22222,bunny,1
+3,roate 00000;slimy 00002;phang 01000,duchy,1
+3,roate 00000;slimy 00002;phang 01010,hunky,1
+3,roate 00000;slimy 00002;phang 10001,guppy,1
+3,roate 00000;slimy 00002;phang 20000,puffy,2
+4,roate 00000;slimy 00002;phang 20000;puffy 22002,puppy,1
+4,roate 00000;slimy 00002;phang 20000;puffy 22222,puffy,1
+3,roate 00000;slimy 00002;phang 20001,pudgy,1
+2,roate 00000;slimy 00010,humph,2
+3,roate 00000;slimy 00010;humph 02102,munch,1
+3,roate 00000;slimy 00010;humph 22222,humph,1
+2,roate 00000;slimy 00011,nymph,1
+2,roate 00000;slimy 00012,dumpy,4
+3,roate 00000;slimy 00012;dumpy 02102,mucky,1
+3,roate 00000;slimy 00012;dumpy 02222,jumpy,1
+3,roate 00000;slimy 00012;dumpy 12102,muddy,1
+3,roate 00000;slimy 00012;dumpy 22222,dumpy,1
+2,roate 00000;slimy 00020,chump,1
+2,roate 00000;slimy 00022,agued,4
+3,roate 00000;slimy 00022;agued 00100,mummy,1
+3,roate 00000;slimy 00022;agued 00101,dummy,1
+3,roate 00000;slimy 00022;agued 01000,pygmy,1
+3,roate 00000;slimy 00022;agued 01100,gummy,1
+2,roate 00000;slimy 00100,cupid,11
+3,roate 00000;slimy 00100;cupid 00022,vivid,1
+3,roate 00000;slimy 00100;cupid 01022,undid,1
+3,roate 00000;slimy 00100;cupid 01120,unzip,1
+3,roate 00000;slimy 00100;cupid 02010,fungi,1
+3,roate 00000;slimy 00100;cupid 10010,finch,2
+4,roate 00000;slimy 00100;cupid 10010;finch 02222,winch,1
+4,roate 00000;slimy 00100;cupid 10010;finch 22222,finch,1
+3,roate 00000;slimy 00100;cupid 10110,pinch,1
+3,roate 00000;slimy 00100;cupid 12120,pubic,1
+3,roate 00000;slimy 00100;cupid 20010,cinch,1
+3,roate 00000;slimy 00100;cupid 20020,civic,1
+3,roate 00000;slimy 00100;cupid 22020,cubic,1
+2,roate 00000;slimy 00101,cynic,1
+2,roate 00000;slimy 00102,panda,13
+3,roate 00000;slimy 00102;panda 00000,fizzy,2
+4,roate 00000;slimy 00102;panda 00000;fizzy 12002,jiffy,1
+4,roate 00000;slimy 00102;panda 00000;fizzy 22222,fizzy,1
+3,roate 00000;slimy 00102;panda 00010,dizzy,1
+3,roate 00000;slimy 00102;panda 00020,biddy,2
+4,roate 00000;slimy 00102;panda 00020;biddy 02222,giddy,1
+4,roate 00000;slimy 00102;panda 00020;biddy 22222,biddy,1
+3,roate 00000;slimy 00102;panda 00200,kinky,2
+4,roate 00000;slimy 00102;panda 00200;kinky 02202,ninny,1
+4,roate 00000;slimy 00102;panda 00200;kinky 22222,kinky,1
+3,roate 00000;slimy 00102;panda 00210,dingy,1
+3,roate 00000;slimy 00102;panda 00220,windy,1
+3,roate 00000;slimy 00102;panda 10000,hippy,1
+3,roate 00000;slimy 00102;panda 20000,picky,2
+4,roate 00000;slimy 00102;panda 20000;picky 22002,piggy,1
+4,roate 00000;slimy 00102;panda 20000;picky 22222,picky,1
+3,roate 00000;slimy 00102;panda 20200,pinky,1
+2,roate 00000;slimy 00110,cumin,4
+3,roate 00000;slimy 00110;cumin 00121,minim,1
+3,roate 00000;slimy 00110;cumin 02220,humid,1
+3,roate 00000;slimy 00110;cumin 10220,mimic,1
+3,roate 00000;slimy 00110;cumin 22222,cumin,1
+2,roate 00000;slimy 00112,wimpy,1
+2,roate 00000;slimy 00200,chick,5
+3,roate 00000;slimy 00200;chick 00222,quick,1
+3,roate 00000;slimy 00200;chick 02200,whiff,1
+3,roate 00000;slimy 00200;chick 02220,which,1
+3,roate 00000;slimy 00200;chick 10200,icing,1
+3,roate 00000;slimy 00200;chick 22222,chick,1
+2,roate 00000;slimy 00201,dying,2
+3,roate 00000;slimy 00201;dying 02222,vying,1
+3,roate 00000;slimy 00201;dying 22222,dying,1
+2,roate 00000;slimy 00202,juicy,3
+3,roate 00000;slimy 00202;juicy 00202,whiny,1
+3,roate 00000;slimy 00202;juicy 01202,unify,1
+3,roate 00000;slimy 00202;juicy 22222,juicy,1
+2,roate 00000;slimy 01000,gulch,2
+3,roate 00000;slimy 01000;gulch 02122,lunch,1
+3,roate 00000;slimy 01000;gulch 22222,gulch,1
+2,roate 00000;slimy 01001,lynch,1
+2,roate 00000;slimy 01002,badly,7
+3,roate 00000;slimy 01002;badly 00012,lucky,2
+4,roate 00000;slimy 01002;badly 00012;lucky 12002,pulpy,1
+4,roate 00000;slimy 01002;badly 00012;lucky 22222,lucky,1
+3,roate 00000;slimy 01002;badly 00022,fully,2
+4,roate 00000;slimy 01002;badly 00022;fully 02222,gully,1
+4,roate 00000;slimy 01002;badly 00022;fully 22222,fully,1
+3,roate 00000;slimy 01002;badly 00122,dully,1
+3,roate 00000;slimy 01002;badly 20012,bulky,1
+3,roate 00000;slimy 01002;badly 20022,bully,1
+2,roate 00000;slimy 01010,mulch,1
+2,roate 00000;slimy 01011,lymph,1
+2,roate 00000;slimy 01012,lumpy,1
+2,roate 00000;slimy 01100,civil,6
+3,roate 00000;slimy 01100;civil 00022,pupil,1
+3,roate 00000;slimy 01100;civil 02021,lipid,1
+3,roate 00000;slimy 01100;civil 02122,vigil,1
+3,roate 00000;slimy 01100;civil 02221,livid,1
+3,roate 00000;slimy 01100;civil 10021,lucid,1
+3,roate 00000;slimy 01100;civil 22222,civil,1
+2,roate 00000;slimy 01101,idyll,2
+3,roate 00000;slimy 01101;idyll 10102,vinyl,1
+3,roate 00000;slimy 01101;idyll 22222,idyll,1
+2,roate 00000;slimy 01102,bandh,5
+3,roate 00000;slimy 01102;bandh 00000,filly,2
+4,roate 00000;slimy 01102;bandh 00000;filly 02222,willy,1
+4,roate 00000;slimy 01102;bandh 00000;filly 22222,filly,1
+3,roate 00000;slimy 01102;bandh 00001,hilly,1
+3,roate 00000;slimy 01102;bandh 00010,dilly,1
+3,roate 00000;slimy 01102;bandh 20000,billy,1
+2,roate 00000;slimy 01112,dimly,3
+3,roate 00000;slimy 01112;dimly 01122,imply,1
+3,roate 00000;slimy 01112;dimly 02112,milky,1
+3,roate 00000;slimy 01112;dimly 22222,dimly,1
+2,roate 00000;slimy 01122,filmy,1
+2,roate 00000;slimy 01200,bodhi,6
+3,roate 00000;slimy 01200;bodhi 00001,quill,1
+3,roate 00000;slimy 01200;bodhi 00011,chill,1
+3,roate 00000;slimy 01200;bodhi 00012,chili,1
+3,roate 00000;slimy 01200;bodhi 00101,guild,1
+3,roate 00000;slimy 01200;bodhi 00111,child,1
+3,roate 00000;slimy 01200;bodhi 20101,build,1
+2,roate 00000;slimy 01201,lying,1
+2,roate 00000;slimy 01202,icily,1
+2,roate 00000;slimy 02000,flung,8
+3,roate 00000;slimy 02000;flung 02200,cluck,2
+4,roate 00000;slimy 02000;flung 02200;cluck 02222,pluck,1
+4,roate 00000;slimy 02000;flung 02200;cluck 22222,cluck,1
+3,roate 00000;slimy 02000;flung 02220,plunk,1
+3,roate 00000;slimy 02000;flung 02222,clung,1
+3,roate 00000;slimy 02000;flung 12200,bluff,1
+3,roate 00000;slimy 02000;flung 22200,fluff,1
+3,roate 00000;slimy 02000;flung 22220,flunk,1
+3,roate 00000;slimy 02000;flung 22222,flung,1
+2,roate 00000;slimy 02001,glyph,1
+2,roate 00000;slimy 02020,clump,3
+3,roate 00000;slimy 02020;clump 02221,plumb,1
+3,roate 00000;slimy 02020;clump 02222,plump,1
+3,roate 00000;slimy 02020;clump 22222,clump,1
+2,roate 00000;slimy 02100,fluid,1
+2,roate 00000;slimy 02200,flick,8
+3,roate 00000;slimy 02200;flick 02200,blind,1
+3,roate 00000;slimy 02200;flick 02200,blind,1
+3,roate 00000;slimy 02200;flick 02202,blink,1
+3,roate 00000;slimy 02200;flick 02210,cling,1
+3,roate 00000;slimy 02200;flick 02212,clink,1
+3,roate 00000;slimy 02200;flick 02222,click,1
+3,roate 00000;slimy 02200;flick 12210,cliff,1
+3,roate 00000;slimy 02200;flick 22200,fling,1
+3,roate 00000;slimy 02200;flick 22222,flick,1
+2,roate 00000;slimy 02220,blimp,2
+3,roate 00000;slimy 02220;blimp 12220,climb,1
+3,roate 00000;slimy 02220;blimp 22222,blimp,1
+2,roate 00000;slimy 10002,hasps,7
+3,roate 00000;slimy 10002;hasps 00110,gypsy,1
+3,roate 00000;slimy 10002;hasps 00200,dusky,1
+3,roate 00000;slimy 10002;hasps 00201,fussy,1
+3,roate 00000;slimy 10002;hasps 10200,bushy,1
+3,roate 00000;slimy 10002;hasps 10210,pushy,1
+3,roate 00000;slimy 10002;hasps 20200,husky,1
+3,roate 00000;slimy 10002;hasps 20201,hussy,1
+2,roate 00000;slimy 10010,humus,2
+3,roate 00000;slimy 10010;humus 02122,mucus,1
+3,roate 00000;slimy 10010;humus 22222,humus,1
+2,roate 00000;slimy 10012,mushy,2
+3,roate 00000;slimy 10012;mushy 22202,musky,1
+3,roate 00000;slimy 10012;mushy 22222,mushy,1
+2,roate 00000;slimy 10100,ficus,1
+2,roate 00000;slimy 10102,fishy,3
+3,roate 00000;slimy 10102;fishy 02102,gipsy,1
+3,roate 00000;slimy 10102;fishy 02202,wispy,1
+3,roate 00000;slimy 10102;fishy 22222,fishy,1
+2,roate 00000;slimy 10110,minus,2
+3,roate 00000;slimy 10110;minus 21011,music,1
+3,roate 00000;slimy 10110;minus 22222,minus,1
+2,roate 00000;slimy 10112,missy,1
+2,roate 00000;slimy 10200,using,2
+3,roate 00000;slimy 10200;using 01200,whisk,1
+3,roate 00000;slimy 10200;using 22222,using,1
+2,roate 00000;slimy 11000,lupus,1
+2,roate 00000;slimy 12000,abaft,3
+3,roate 00000;slimy 12000;abaft 00000,plush,1
+3,roate 00000;slimy 12000;abaft 00010,flush,1
+3,roate 00000;slimy 12000;abaft 01000,blush,1
+2,roate 00000;slimy 12200,bliss,1
+2,roate 00000;slimy 20000,skunk,7
+3,roate 00000;slimy 20000;skunk 20200,shush,1
+3,roate 00000;slimy 20000;skunk 20202,shuck,1
+3,roate 00000;slimy 20000;skunk 20210,snuff,1
+3,roate 00000;slimy 20000;skunk 20212,snuck,1
+3,roate 00000;slimy 20000;skunk 20220,swung,1
+3,roate 00000;slimy 20000;skunk 20222,spunk,1
+3,roate 00000;slimy 20000;skunk 22222,skunk,1
+2,roate 00000;slimy 20002,sunny,1
+2,roate 00000;slimy 20100,squib,2
+3,roate 00000;slimy 20100;squib 20110,sushi,1
+3,roate 00000;slimy 20100;squib 22222,squib,1
+2,roate 00000;slimy 20102,sissy,1
+2,roate 00000;slimy 20200,swing,5
+3,roate 00000;slimy 20200;swing 20200,skiff,1
+3,roate 00000;slimy 20200;swing 20210,sniff,1
+3,roate 00000;slimy 20200;swing 20222,suing,1
+3,roate 00000;slimy 20200;swing 22200,swish,1
+3,roate 00000;slimy 20200;swing 22222,swing,1
+2,roate 00000;slimy 20202,ancho,4
+3,roate 00000;slimy 20202;ancho 00000,spiky,1
+3,roate 00000;slimy 20202;ancho 00100,spicy,1
+3,roate 00000;slimy 20202;ancho 01000,spiny,1
+3,roate 00000;slimy 20202;ancho 01010,shiny,1
+2,roate 00000;slimy 20220,skimp,1
+2,roate 00000;slimy 21000,skulk,2
+3,roate 00000;slimy 21000;skulk 22220,skull,1
+3,roate 00000;slimy 21000;skulk 22222,skulk,1
+2,roate 00000;slimy 21002,shyly,3
+3,roate 00000;slimy 21002;shyly 20012,sulky,1
+3,roate 00000;slimy 21002;shyly 20022,sully,1
+3,roate 00000;slimy 21002;shyly 22222,shyly,1
+2,roate 00000;slimy 21102,silky,2
+3,roate 00000;slimy 21102;silky 22202,silly,1
+3,roate 00000;slimy 21102;silky 22222,silky,1
+2,roate 00000;slimy 21200,apeak,3
+3,roate 00000;slimy 21200;apeak 00000,swill,1
+3,roate 00000;slimy 21200;apeak 00001,skill,1
+3,roate 00000;slimy 21200;apeak 02000,spill,1
+2,roate 00000;slimy 22000,slung,3
+3,roate 00000;slimy 22000;slung 22200,slush,1
+3,roate 00000;slimy 22000;slung 22220,slunk,1
+3,roate 00000;slimy 22000;slung 22222,slung,1
+2,roate 00000;slimy 22002,slyly,1
+2,roate 00000;slimy 22020,slump,1
+2,roate 00000;slimy 22200,slick,3
+3,roate 00000;slimy 22200;slick 22200,sling,1
+3,roate 00000;slimy 22200;slick 22202,slink,1
+3,roate 00000;slimy 22200;slick 22222,slick,1
+2,roate 00000;slimy 22222,slimy,1
+1,roate 00001,silen,106
+2,roate 00001;silen 00010,alkyd,6
+3,roate 00001;silen 00010;alkyd 00000,beech,1
+3,roate 00001;silen 00010;alkyd 00001,debug,1
+3,roate 00001;silen 00010;alkyd 00010,beefy,1
+3,roate 00001;silen 00010;alkyd 00011,weedy,1
+3,roate 00001;silen 00010;alkyd 00100,check,1
+3,roate 00001;silen 00010;alkyd 00110,geeky,1
+2,roate 00001;silen 00011,bench,5
+3,roate 00001;silen 00011;bench 01100,enemy,1
+3,roate 00001;silen 00011;bench 02100,needy,1
+3,roate 00001;silen 00011;bench 02200,penny,1
+3,roate 00001;silen 00011;bench 02222,wench,1
+3,roate 00001;silen 00011;bench 22222,bench,1
+2,roate 00001;silen 00012,begun,1
+2,roate 00001;silen 00020,cheek,2
+3,roate 00001;silen 00020;cheek 00120,embed,1
+3,roate 00001;silen 00020;cheek 22222,cheek,1
+2,roate 00001;silen 00021,unfed,3
+3,roate 00001;silen 00021;unfed 02022,kneed,1
+3,roate 00001;silen 00021;unfed 22022,unwed,1
+3,roate 00001;silen 00021;unfed 22222,unfed,1
+2,roate 00001;silen 00022,hymen,2
+3,roate 00001;silen 00022;hymen 00022,queen,1
+3,roate 00001;silen 00022;hymen 22222,hymen,1
+2,roate 00001;silen 00110,chewy,7
+3,roate 00001;silen 00110;chewy 00102,leggy,1
+3,roate 00001;silen 00110;chewy 00200,quell,1
+3,roate 00001;silen 00110;chewy 00202,elegy,1
+3,roate 00001;silen 00110;chewy 00210,dwell,1
+3,roate 00001;silen 00110;chewy 02210,whelp,1
+3,roate 00001;silen 00110;chewy 10200,fleck,1
+3,roate 00001;silen 00110;chewy 11200,leech,1
+2,roate 00001;silen 00111,blend,2
+3,roate 00001;silen 00111;blend 01110,newly,1
+3,roate 00001;silen 00111;blend 22222,blend,1
+2,roate 00001;silen 00120,becap,10
+3,roate 00001;silen 00120;becap 01000,wheel,1
+3,roate 00001;silen 00120;becap 01001,expel,1
+3,roate 00001;silen 00120;becap 01100,clued,1
+3,roate 00001;silen 00120;becap 01200,excel,1
+3,roate 00001;silen 00120;becap 02000,jewel,2
+4,roate 00001;silen 00120;becap 02000;jewel 02022,level,1
+4,roate 00001;silen 00120;becap 02000;jewel 22222,jewel,1
+3,roate 00001;silen 00120;becap 21000,bleed,1
+3,roate 00001;silen 00120;becap 21002,bleep,1
+3,roate 00001;silen 00120;becap 22000,bevel,2
+4,roate 00001;silen 00120;becap 22000;bevel 22022,bezel,1
+4,roate 00001;silen 00120;becap 22000;bevel 22222,bevel,1
+2,roate 00001;silen 00121,kneel,1
+2,roate 00001;silen 00122,lumen,1
+2,roate 00001;silen 00210,belch,4
+3,roate 00001;silen 00210;belch 02200,jelly,1
+3,roate 00001;silen 00210;belch 02222,welch,1
+3,roate 00001;silen 00210;belch 22200,belly,1
+3,roate 00001;silen 00210;belch 22222,belch,1
+2,roate 00001;silen 01010,edify,4
+3,roate 00001;silen 01010;edify 10200,weigh,1
+3,roate 00001;silen 01010;edify 11100,medic,1
+3,roate 00001;silen 01010;edify 20100,equip,1
+3,roate 00001;silen 01010;edify 22222,edify,1
+2,roate 00001;silen 01011,eking,6
+3,roate 00001;silen 01011;eking 10110,denim,1
+3,roate 00001;silen 01011;eking 10211,neigh,1
+3,roate 00001;silen 01011;eking 10222,being,1
+3,roate 00001;silen 01011;eking 20110,ennui,1
+3,roate 00001;silen 01011;eking 20222,eying,1
+3,roate 00001;silen 01011;eking 22222,eking,1
+2,roate 00001;silen 01012,deign,3
+3,roate 00001;silen 01012;deign 02112,begin,1
+3,roate 00001;silen 01012;deign 02222,feign,1
+3,roate 00001;silen 01012;deign 22222,deign,1
+2,roate 00001;silen 01020,chief,1
+2,roate 00001;silen 01021,index,1
+2,roate 00001;silen 01110,devil,1
+2,roate 00001;silen 01112,elfin,1
+2,roate 00001;silen 01120,impel,2
+3,roate 00001;silen 01120;impel 10121,plied,1
+3,roate 00001;silen 01120;impel 22222,impel,1
+2,roate 00001;silen 01210,helix,1
+2,roate 00001;silen 02011,fiend,1
+2,roate 00001;silen 02020,bicep,2
+3,roate 00001;silen 02020;bicep 02220,dicey,1
+3,roate 00001;silen 02020;bicep 22222,bicep,1
+2,roate 00001;silen 02021,piney,1
+2,roate 00001;silen 02022,given,3
+3,roate 00001;silen 02022;given 02022,widen,1
+3,roate 00001;silen 02022;given 02122,vixen,1
+3,roate 00001;silen 02022;given 22222,given,1
+2,roate 00001;silen 02110,alway,3
+3,roate 00001;silen 02110;alway 01000,field,1
+3,roate 00001;silen 02110;alway 01001,yield,1
+3,roate 00001;silen 02110;alway 01100,wield,1
+2,roate 00001;silen 02120,libel,2
+3,roate 00001;silen 02120;libel 02022,pixel,1
+3,roate 00001;silen 02120;libel 22222,libel,1
+2,roate 00001;silen 02122,liken,2
+3,roate 00001;silen 02122;liken 22022,linen,1
+3,roate 00001;silen 02122;liken 22222,liken,1
+2,roate 00001;silen 10010,chess,3
+3,roate 00001;silen 10010;chess 00110,pesky,1
+3,roate 00001;silen 10010;chess 00222,guess,1
+3,roate 00001;silen 10010;chess 22222,chess,1
+2,roate 00001;silen 10020,bused,1
+2,roate 00001;silen 10110,bless,2
+3,roate 00001;silen 10110;bless 02220,flesh,1
+3,roate 00001;silen 10110;bless 22222,bless,1
+2,roate 00001;silen 10210,welsh,1
+2,roate 00001;silen 20010,seedy,2
+3,roate 00001;silen 20010;seedy 20200,speck,1
+3,roate 00001;silen 20010;seedy 22222,seedy,1
+2,roate 00001;silen 20011,spend,1
+2,roate 00001;silen 20020,sheep,3
+3,roate 00001;silen 20020;sheep 20221,speed,1
+3,roate 00001;silen 20020;sheep 20222,sweep,1
+3,roate 00001;silen 20020;sheep 22222,sheep,1
+2,roate 00001;silen 20022,semen,3
+3,roate 00001;silen 20022;semen 21022,sheen,1
+3,roate 00001;silen 20022;semen 22022,seven,1
+3,roate 00001;silen 20022;semen 22222,semen,1
+2,roate 00001;silen 20110,ampul,5
+3,roate 00001;silen 20110;ampul 00001,shelf,1
+3,roate 00001;silen 20110;ampul 00002,shell,2
+4,roate 00001;silen 20110;ampul 00002;shell 20222,swell,1
+4,roate 00001;silen 20110;ampul 00002;shell 22222,shell,1
+3,roate 00001;silen 20110;ampul 00102,spell,1
+3,roate 00001;silen 20110;ampul 02002,smell,1
+2,roate 00001;silen 20120,sleek,2
+3,roate 00001;silen 20120;sleek 22220,sleep,1
+3,roate 00001;silen 20120;sleek 22222,sleek,1
+2,roate 00001;silen 21010,sheik,1
+2,roate 00001;silen 21020,shied,2
+3,roate 00001;silen 21020;shied 20222,spied,1
+3,roate 00001;silen 21020;shied 22222,shied,1
+2,roate 00001;silen 21120,spiel,1
+2,roate 00001;silen 22021,sinew,1
+1,roate 00002,sling,83
+2,roate 00002;sling 00000,deuce,4
+3,roate 00002;sling 00000;deuce 01012,emcee,1
+3,roate 00002;sling 00000;deuce 01102,queue,1
+3,roate 00002;sling 00000;deuce 02002,femme,1
+3,roate 00002;sling 00000;deuce 22222,deuce,1
+2,roate 00002;sling 00001,awful,6
+3,roate 00002;sling 00001;awful 00000,hedge,1
+3,roate 00002;sling 00001;awful 00010,budge,2
+4,roate 00002;sling 00001;awful 00010;budge 02222,judge,1
+4,roate 00002;sling 00001;awful 00010;budge 22222,budge,1
+3,roate 00002;sling 00001;awful 00110,fudge,1
+3,roate 00002;sling 00001;awful 00120,fugue,1
+3,roate 00002;sling 00001;awful 01000,wedge,1
+2,roate 00002;sling 00010,cheep,6
+3,roate 00002;sling 00010;cheep 00100,undue,1
+3,roate 00002;sling 00010;cheep 00110,venue,1
+3,roate 00002;sling 00010;cheep 10100,dunce,1
+3,roate 00002;sling 00010;cheep 10110,fence,1
+3,roate 00002;sling 00010;cheep 10111,pence,1
+3,roate 00002;sling 00010;cheep 11110,hence,1
+2,roate 00002;sling 00011,nudge,1
+2,roate 00002;sling 00020,penne,1
+2,roate 00002;sling 00100,acmic,4
+3,roate 00002;sling 00100;acmic 00010,pique,1
+3,roate 00002;sling 00100;acmic 00020,pixie,1
+3,roate 00002;sling 00100;acmic 00110,imbue,1
+3,roate 00002;sling 00100;acmic 01010,piece,1
+2,roate 00002;sling 00101,midge,1
+2,roate 00002;sling 00110,mince,4
+3,roate 00002;sling 00110;mince 02112,niche,1
+3,roate 00002;sling 00110;mince 02122,niece,1
+3,roate 00002;sling 00110;mince 02222,wince,1
+3,roate 00002;sling 00110;mince 22222,mince,1
+2,roate 00002;sling 00111,binge,3
+3,roate 00002;sling 00111;binge 01212,genie,1
+3,roate 00002;sling 00111;binge 02222,hinge,1
+3,roate 00002;sling 00111;binge 22222,binge,1
+2,roate 00002;sling 00200,chide,3
+3,roate 00002;sling 00200;chide 10202,juice,1
+3,roate 00002;sling 00200;chide 22202,chime,1
+3,roate 00002;sling 00200;chide 22222,chide,1
+2,roate 00002;sling 00201,guide,1
+2,roate 00002;sling 00210,knife,1
+2,roate 00002;sling 00220,whine,1
+2,roate 00002;sling 01000,abbed,4
+3,roate 00002;sling 01000;abbed 00010,cycle,1
+3,roate 00002;sling 01000;abbed 00011,delve,1
+3,roate 00002;sling 01000;abbed 00020,melee,1
+3,roate 00002;sling 01000;abbed 01010,belle,1
+2,roate 00002;sling 01001,bugle,3
+3,roate 00002;sling 01001;bugle 00112,ledge,1
+3,roate 00002;sling 01001;bugle 22112,bulge,1
+3,roate 00002;sling 01001;bugle 22222,bugle,1
+2,roate 00002;sling 01010,uncle,1
+2,roate 00002;sling 01011,lunge,1
+2,roate 00002;sling 01100,belie,2
+3,roate 00002;sling 01100;belie 20112,bible,1
+3,roate 00002;sling 01100;belie 22222,belie,1
+2,roate 00002;sling 01101,bilge,2
+3,roate 00002;sling 01101;bilge 02122,liege,1
+3,roate 00002;sling 01101;bilge 22222,bilge,1
+2,roate 00002;sling 01200,exile,2
+3,roate 00002;sling 01200;exile 00222,while,1
+3,roate 00002;sling 01200;exile 22222,exile,1
+2,roate 00002;sling 01201,guile,1
+2,roate 00002;sling 02000,flume,4
+3,roate 00002;sling 02000;flume 02202,elude,1
+3,roate 00002;sling 02000;flume 02222,plume,1
+3,roate 00002;sling 02000;flume 22202,fluke,1
+3,roate 00002;sling 02000;flume 22222,flume,1
+2,roate 00002;sling 02200,elide,1
+2,roate 00002;sling 02201,glide,1
+2,roate 00002;sling 10001,geese,1
+2,roate 00002;sling 10010,dense,2
+3,roate 00002;sling 10010;dense 01112,ensue,1
+3,roate 00002;sling 10010;dense 22222,dense,1
+2,roate 00002;sling 10100,issue,1
+2,roate 00002;sling 10201,guise,1
+2,roate 00002;sling 11000,pulse,1
+2,roate 00002;sling 20001,segue,1
+2,roate 00002;sling 20010,sense,1
+2,roate 00002;sling 20020,scene,1
+2,roate 00002;sling 20100,sieve,1
+2,roate 00002;sling 20101,siege,1
+2,roate 00002;sling 20110,since,1
+2,roate 00002;sling 20111,singe,1
+2,roate 00002;sling 20200,spice,3
+3,roate 00002;sling 20200;spice 20202,seize,1
+3,roate 00002;sling 20200;spice 22202,spike,1
+3,roate 00002;sling 20200;spice 22222,spice,1
+2,roate 00002;sling 20210,snide,2
+3,roate 00002;sling 20210;snide 22202,snipe,1
+3,roate 00002;sling 20210;snide 22222,snide,1
+2,roate 00002;sling 20220,aheap,3
+3,roate 00002;sling 20220;aheap 00100,swine,1
+3,roate 00002;sling 20220;aheap 00101,spine,1
+3,roate 00002;sling 20220;aheap 02100,shine,1
+2,roate 00002;sling 21200,smile,1
+2,roate 00002;sling 22200,ached,3
+3,roate 00002;sling 22200;ached 00010,slime,1
+3,roate 00002;sling 22200;ached 00011,slide,1
+3,roate 00002;sling 22200;ached 01010,slice,1
+1,roate 00010,shunt,63
+2,roate 00010;shunt 00001,timid,1
+2,roate 00010;shunt 00002,digit,3
+3,roate 00010;shunt 00002;digit 01002,twixt,1
+3,roate 00010;shunt 00002;digit 02022,limit,1
+3,roate 00010;shunt 00002;digit 22222,digit,1
+2,roate 00010;shunt 00021,tying,1
+2,roate 00010;shunt 00022,flint,2
+3,roate 00010;shunt 00022;flint 02222,glint,1
+3,roate 00010;shunt 00022;flint 22222,flint,1
+2,roate 00010;shunt 00101,tulip,1
+2,roate 00010;shunt 00102,badge,3
+3,roate 00010;shunt 00102;badge 00000,quilt,1
+3,roate 00010;shunt 00102;badge 00010,guilt,1
+3,roate 00010;shunt 00102;badge 20000,built,1
+2,roate 00010;shunt 00111,tunic,2
+3,roate 00010;shunt 00111;tunic 11120,until,1
+3,roate 00010;shunt 00111;tunic 22222,tunic,1
+2,roate 00010;shunt 00112,unfit,4
+3,roate 00010;shunt 00112;unfit 12012,input,1
+3,roate 00010;shunt 00112;unfit 22002,uncut,1
+3,roate 00010;shunt 00112;unfit 22022,unlit,1
+3,roate 00010;shunt 00112;unfit 22222,unfit,1
+2,roate 00010;shunt 00222,blunt,1
+2,roate 00010;shunt 01001,hyped,6
+3,roate 00010;shunt 01001;hyped 10000,witch,1
+3,roate 00010;shunt 01001;hyped 10001,ditch,1
+3,roate 00010;shunt 01001;hyped 10100,pitch,1
+3,roate 00010;shunt 01001;hyped 11000,itchy,1
+3,roate 00010;shunt 01001;hyped 11100,pithy,1
+3,roate 00010;shunt 01001;hyped 20000,hitch,1
+2,roate 00010;shunt 01002,awful,5
+3,roate 00010;shunt 01002;awful 00000,might,2
+4,roate 00010;shunt 01002;awful 00000;might 02222,tight,1
+4,roate 00010;shunt 01002;awful 00000;might 22222,might,1
+3,roate 00010;shunt 01002;awful 00001,light,1
+3,roate 00010;shunt 01002;awful 00100,fight,1
+3,roate 00010;shunt 01002;awful 01000,wight,1
+2,roate 00010;shunt 01012,night,1
+2,roate 00010;shunt 01101,aband,3
+3,roate 00010;shunt 01101;aband 00000,hutch,1
+3,roate 00010;shunt 01101;aband 00001,dutch,1
+3,roate 00010;shunt 01101;aband 01000,butch,1
+2,roate 00010;shunt 02001,thick,2
+3,roate 00010;shunt 02001;thick 22200,thigh,1
+3,roate 00010;shunt 02001;thick 22222,thick,1
+2,roate 00010;shunt 02021,thing,2
+3,roate 00010;shunt 02021;thing 22220,think,1
+3,roate 00010;shunt 02021;thing 22222,thing,1
+2,roate 00010;shunt 02201,thumb,2
+3,roate 00010;shunt 02201;thumb 22220,thump,1
+3,roate 00010;shunt 02201;thumb 22222,thumb,1
+2,roate 00010;shunt 10001,tipsy,1
+2,roate 00010;shunt 10002,midst,3
+3,roate 00010;shunt 10002;midst 01022,twist,1
+3,roate 00010;shunt 10002;midst 02012,visit,1
+3,roate 00010;shunt 10002;midst 22222,midst,1
+2,roate 00010;shunt 20001,acold,3
+3,roate 00010;shunt 20001;acold 00000,stiff,1
+3,roate 00010;shunt 20001;acold 00020,still,1
+3,roate 00010;shunt 20001;acold 01000,stick,1
+2,roate 00010;shunt 20002,spilt,4
+3,roate 00010;shunt 20002;spilt 20202,swift,1
+3,roate 00010;shunt 20002;spilt 20222,stilt,1
+3,roate 00010;shunt 20002;spilt 22112,split,1
+3,roate 00010;shunt 20002;spilt 22222,spilt,1
+2,roate 00010;shunt 20021,sting,2
+3,roate 00010;shunt 20021;sting 22220,stink,1
+3,roate 00010;shunt 20021;sting 22222,sting,1
+2,roate 00010;shunt 20022,stint,1
+2,roate 00010;shunt 20201,calmy,4
+3,roate 00010;shunt 20201;calmy 00000,stuff,1
+3,roate 00010;shunt 20201;calmy 00002,study,1
+3,roate 00010;shunt 20201;calmy 00020,stump,1
+3,roate 00010;shunt 20201;calmy 10000,stuck,1
+2,roate 00010;shunt 20221,stung,2
+3,roate 00010;shunt 20221;stung 22220,stunk,1
+3,roate 00010;shunt 20221;stung 22222,stung,1
+2,roate 00010;shunt 20222,stunt,1
+2,roate 00010;shunt 21002,sight,1
+2,roate 00010;shunt 22002,shift,1
+2,roate 00010;shunt 22222,shunt,1
+1,roate 00011,siled,56
+2,roate 00011;siled 00010,eject,4
+3,roate 00011;siled 00010;eject 00202,theft,1
+3,roate 00011;siled 00010;eject 10021,fetch,1
+3,roate 00011;siled 00010;eject 20202,event,1
+3,roate 00011;siled 00010;eject 22222,eject,1
+2,roate 00011;siled 00011,debut,2
+3,roate 00011;siled 00011;debut 12001,teddy,1
+3,roate 00011;siled 00011;debut 22222,debut,1
+2,roate 00011;siled 00020,beget,4
+3,roate 00011;siled 00020;beget 00022,unmet,1
+3,roate 00011;siled 00020;beget 01022,tweet,1
+3,roate 00011;siled 00020;beget 02022,tenet,1
+3,roate 00011;siled 00020;beget 22222,beget,1
+2,roate 00011;siled 00021,duvet,1
+2,roate 00011;siled 00022,tweed,1
+2,roate 00011;siled 00110,cleft,4
+3,roate 00011;siled 00110;cleft 01102,exult,1
+3,roate 00011;siled 00110;cleft 01202,knelt,1
+3,roate 00011;siled 00110;cleft 12202,elect,1
+3,roate 00011;siled 00110;cleft 22222,cleft,1
+2,roate 00011;siled 00111,dwelt,1
+2,roate 00011;siled 00120,betel,2
+3,roate 00011;siled 00120;betel 01121,fleet,1
+3,roate 00011;siled 00120;betel 22222,betel,1
+2,roate 00011;siled 01010,ethic,4
+3,roate 00011;siled 01010;ethic 11010,inept,1
+3,roate 00011;siled 01010;ethic 11020,befit,1
+3,roate 00011;siled 01010;ethic 21011,evict,1
+3,roate 00011;siled 01010;ethic 22222,ethic,1
+2,roate 00011;siled 01011,debit,2
+3,roate 00011;siled 01011;debit 11012,edict,1
+3,roate 00011;siled 01011;debit 22222,debit,1
+2,roate 00011;siled 01012,fetid,2
+3,roate 00011;siled 01012;fetid 02122,tepid,1
+3,roate 00011;siled 01012;fetid 22222,fetid,1
+2,roate 00011;siled 01020,quiet,2
+3,roate 00011;siled 01020;quiet 00221,thief,1
+3,roate 00011;siled 01020;quiet 22222,quiet,1
+2,roate 00011;siled 01220,inlet,1
+2,roate 00011;siled 02010,eight,1
+2,roate 00011;siled 02220,filet,1
+2,roate 00011;siled 10010,guest,4
+3,roate 00011;siled 10010;guest 00222,chest,1
+3,roate 00011;siled 10010;guest 01111,fetus,1
+3,roate 00011;siled 10010;guest 02222,quest,1
+3,roate 00011;siled 10010;guest 22222,guest,1
+2,roate 00011;siled 10020,unset,3
+3,roate 00011;siled 10020;unset 00222,beset,1
+3,roate 00011;siled 10020;unset 20222,upset,1
+3,roate 00011;siled 10020;unset 22222,unset,1
+2,roate 00011;siled 11010,exist,2
+3,roate 00011;siled 11010;exist 10222,heist,1
+3,roate 00011;siled 11010;exist 22222,exist,1
+2,roate 00011;siled 11220,islet,1
+2,roate 00011;siled 20010,scent,4
+3,roate 00011;siled 20010;scent 20101,setup,1
+3,roate 00011;siled 20010;scent 20202,swept,1
+3,roate 00011;siled 20010;scent 20222,spent,1
+3,roate 00011;siled 20010;scent 22222,scent,1
+2,roate 00011;siled 20020,sheet,3
+3,roate 00011;siled 20020;sheet 20221,steep,1
+3,roate 00011;siled 20020;sheet 20222,sweet,1
+3,roate 00011;siled 20020;sheet 22222,sheet,1
+2,roate 00011;siled 20022,steed,1
+2,roate 00011;siled 20110,slept,3
+3,roate 00011;siled 20110;slept 21202,smelt,1
+3,roate 00011;siled 20110;slept 21212,spelt,1
+3,roate 00011;siled 20110;slept 22222,slept,1
+2,roate 00011;siled 20120,sleet,2
+3,roate 00011;siled 20120;sleet 21221,steel,1
+3,roate 00011;siled 20120;sleet 22222,sleet,1
+2,roate 00011;siled 21010,stein,1
+1,roate 00012,cuish,17
+2,roate 00012;cuish 00000,tepee,1
+2,roate 00012;cuish 00001,theme,2
+3,roate 00012;cuish 00001;theme 22022,thyme,1
+3,roate 00012;cuish 00001;theme 22222,theme,1
+2,roate 00012;cuish 00010,style,1
+2,roate 00012;cuish 00020,tense,1
+2,roate 00012;cuish 00021,these,1
+2,roate 00012;cuish 00100,tilde,2
+3,roate 00012;cuish 00100;tilde 22102,title,1
+3,roate 00012;cuish 00100;tilde 22222,tilde,1
+2,roate 00012;cuish 00101,lithe,2
+3,roate 00012;cuish 00101;lithe 02222,tithe,1
+3,roate 00012;cuish 00101;lithe 22222,lithe,1
+2,roate 00012;cuish 00200,twine,1
+2,roate 00012;cuish 01000,etude,1
+2,roate 00012;cuish 01100,untie,1
+2,roate 00012;cuish 01200,utile,1
+2,roate 00012;cuish 02000,tulle,1
+2,roate 00012;cuish 10200,twice,1
+2,roate 00012;cuish 22100,cutie,1
+1,roate 00020,hinds,21
+2,roate 00020;hinds 00000,putty,1
+2,roate 00020;hinds 00001,agama,3
+3,roate 00020;hinds 00001;agama 00000,lusty,1
+3,roate 00020;hinds 00001;agama 00010,musty,1
+3,roate 00020;hinds 00001;agama 01000,gusty,1
+2,roate 00020;hinds 00011,dusty,1
+2,roate 00020;hinds 00100,nutty,1
+2,roate 00020;hinds 01000,blitz,1
+2,roate 00020;hinds 01100,unity,1
+2,roate 00020;hinds 02000,batik,4
+3,roate 00020;hinds 02000;batik 00110,fifty,1
+3,roate 00020;hinds 02000;batik 00210,witty,1
+3,roate 00020;hinds 02000;batik 00211,kitty,1
+3,roate 00020;hinds 02000;batik 20210,bitty,1
+2,roate 00020;hinds 02001,sixty,1
+2,roate 00020;hinds 02010,ditty,1
+2,roate 00020;hinds 02200,minty,1
+2,roate 00020;hinds 11001,smith,1
+2,roate 00020;hinds 12000,fifth,2
+3,roate 00020;hinds 12000;fifth 22022,filth,1
+3,roate 00020;hinds 12000;fifth 22222,fifth,1
+2,roate 00020;hinds 12001,sixth,1
+2,roate 00020;hinds 12010,width,1
+2,roate 00020;hinds 12200,ninth,1
+1,roate 00021,plesh,12
+2,roate 00021;plesh 00100,deity,2
+3,roate 00021;plesh 00100;deity 02022,jetty,1
+3,roate 00021;plesh 00100;deity 22222,deity,1
+2,roate 00021;plesh 00101,hefty,1
+2,roate 00021;plesh 00102,tenth,1
+2,roate 00021;plesh 00110,testy,2
+3,roate 00021;plesh 00110;testy 02222,zesty,1
+3,roate 00021;plesh 00110;testy 22222,testy,1
+2,roate 00021;plesh 00202,teeth,1
+2,roate 00021;plesh 01100,lefty,1
+2,roate 00021;plesh 10100,empty,1
+2,roate 00021;plesh 10102,depth,1
+2,roate 00021;plesh 20100,petty,1
+2,roate 00021;plesh 20200,piety,1
+1,roate 00022,muils,10
+2,roate 00022;muils 00200,white,1
+2,roate 00022;muils 00201,spite,1
+2,roate 00022;muils 00210,elite,1
+2,roate 00022;muils 01000,chute,1
+2,roate 00022;muils 01010,flute,1
+2,roate 00022;muils 01200,unite,1
+2,roate 00022;muils 02000,butte,1
+2,roate 00022;muils 02200,quite,1
+2,roate 00022;muils 02201,suite,1
+2,roate 00022;muils 10201,smite,1
+1,roate 00100,lysin,112
+2,roate 00100;lysin 00000,gamma,6
+3,roate 00100;lysin 00000;gamma 02002,kappa,1
+3,roate 00100;lysin 00000;gamma 02101,macaw,1
+3,roate 00100;lysin 00000;gamma 02111,madam,1
+3,roate 00100;lysin 00000;gamma 02222,mamma,1
+3,roate 00100;lysin 00000;gamma 12122,magma,1
+3,roate 00100;lysin 00000;gamma 22222,gamma,1
+2,roate 00100;lysin 00001,fauna,2
+3,roate 00100;lysin 00001;fauna 02012,manga,1
+3,roate 00100;lysin 00001;fauna 22222,fauna,1
+2,roate 00100;lysin 00002,human,2
+3,roate 00100;lysin 00002;human 00022,pagan,1
+3,roate 00100;lysin 00002;human 22222,human,1
+2,roate 00100;lysin 00010,pizza,1
+2,roate 00100;lysin 00011,aging,4
+3,roate 00100;lysin 00011;aging 10110,ninja,1
+3,roate 00100;lysin 00011;aging 10220,china,1
+3,roate 00100;lysin 00011;aging 20222,aping,1
+3,roate 00100;lysin 00011;aging 22222,aging,1
+2,roate 00100;lysin 00012,avian,1
+2,roate 00100;lysin 00020,adage,6
+3,roate 00100;lysin 00020;adage 10000,maxim,1
+3,roate 00100;lysin 00020;adage 10010,magic,1
+3,roate 00100;lysin 00020;adage 10100,mafia,1
+3,roate 00100;lysin 00020;adage 11000,vapid,1
+3,roate 00100;lysin 00020;adage 20000,affix,1
+3,roate 00100;lysin 00020;adage 21000,aphid,1
+2,roate 00100;lysin 00021,mania,3
+3,roate 00100;lysin 00021;mania 02220,panic,1
+3,roate 00100;lysin 00021;mania 22220,manic,1
+3,roate 00100;lysin 00021;mania 22222,mania,1
+2,roate 00100;lysin 00022,admin,2
+3,roate 00100;lysin 00022;admin 10022,cabin,1
+3,roate 00100;lysin 00022;admin 22222,admin,1
+2,roate 00100;lysin 00100,scuba,3
+3,roate 00100;lysin 00100;scuba 20201,squad,1
+3,roate 00100;lysin 00100;scuba 21101,sumac,1
+3,roate 00100;lysin 00100;scuba 22222,scuba,1
+2,roate 00100;lysin 00101,sauna,1
+2,roate 00100;lysin 00110,amiss,2
+3,roate 00100;lysin 00110;amiss 11110,sigma,1
+3,roate 00100;lysin 00110;amiss 22222,amiss,1
+2,roate 00100;lysin 00220,basic,2
+3,roate 00100;lysin 00220;basic 22220,basis,1
+3,roate 00100;lysin 00220;basic 22222,basic,1
+2,roate 00100;lysin 00222,basin,1
+2,roate 00100;lysin 01000,cadgy,13
+3,roate 00100;lysin 01000;cadgy 02001,kayak,1
+3,roate 00100;lysin 01000;cadgy 02002,abamp,3
+4,roate 00100;lysin 01000;cadgy 02002;abamp 10000,jazzy,1
+4,roate 00100;lysin 01000;cadgy 02002;abamp 10001,happy,1
+4,roate 00100;lysin 01000;cadgy 02002;abamp 10020,mammy,1
+3,roate 00100;lysin 01000;cadgy 02012,gawky,1
+3,roate 00100;lysin 01000;cadgy 02022,baggy,1
+3,roate 00100;lysin 01000;cadgy 02102,bawdy,1
+3,roate 00100;lysin 01000;cadgy 02112,gaudy,1
+3,roate 00100;lysin 01000;cadgy 02202,daddy,2
+4,roate 00100;lysin 01000;cadgy 02202;daddy 02222,paddy,1
+4,roate 00100;lysin 01000;cadgy 02202;daddy 22222,daddy,1
+3,roate 00100;lysin 01000;cadgy 12002,wacky,1
+3,roate 00100;lysin 01000;cadgy 22002,cabby,1
+3,roate 00100;lysin 01000;cadgy 22202,caddy,1
+2,roate 00100;lysin 01001,chang,8
+3,roate 00100;lysin 01001;chang 00110,dandy,1
+3,roate 00100;lysin 01001;chang 00111,mangy,1
+3,roate 00100;lysin 01001;chang 00120,fanny,2
+4,roate 00100;lysin 01001;chang 00120;fanny 02222,nanny,1
+4,roate 00100;lysin 01001;chang 00120;fanny 22222,fanny,1
+3,roate 00100;lysin 01001;chang 01110,handy,1
+3,roate 00100;lysin 01001;chang 10110,fancy,1
+3,roate 00100;lysin 01001;chang 20110,candy,1
+3,roate 00100;lysin 01001;chang 20120,canny,1
+2,roate 00100;lysin 01100,ampul,4
+3,roate 00100;lysin 01100;ampul 10000,savvy,1
+3,roate 00100;lysin 01100;ampul 10010,saucy,1
+3,roate 00100;lysin 01100;ampul 10200,sappy,1
+3,roate 00100;lysin 01100;ampul 20000,abyss,1
+2,roate 00100;lysin 01101,pansy,2
+3,roate 00100;lysin 01101;pansy 02212,sandy,1
+3,roate 00100;lysin 01101;pansy 22222,pansy,1
+2,roate 00100;lysin 01110,daisy,1
+2,roate 00100;lysin 01200,gassy,3
+3,roate 00100;lysin 01200;gassy 01212,assay,1
+3,roate 00100;lysin 01200;gassy 02222,sassy,1
+3,roate 00100;lysin 01200;gassy 22222,gassy,1
+2,roate 00100;lysin 10000,alpha,7
+3,roate 00100;lysin 10000;alpha 11000,caulk,1
+3,roate 00100;lysin 10000;alpha 11001,cabal,1
+3,roate 00100;lysin 10000;alpha 11200,pupal,1
+3,roate 00100;lysin 10000;alpha 11201,papal,1
+3,roate 00100;lysin 10000;alpha 21000,awful,1
+3,roate 00100;lysin 10000;alpha 22000,album,1
+3,roate 00100;lysin 10000;alpha 22222,alpha,1
+2,roate 00100;lysin 10001,banal,4
+3,roate 00100;lysin 10001;banal 01202,annul,1
+3,roate 00100;lysin 10001;banal 02122,naval,1
+3,roate 00100;lysin 10001;banal 02222,canal,1
+3,roate 00100;lysin 10001;banal 22222,banal,1
+2,roate 00100;lysin 10010,alibi,4
+3,roate 00100;lysin 10010;alibi 11100,villa,1
+3,roate 00100;lysin 10010;alibi 12201,iliac,1
+3,roate 00100;lysin 10010;alibi 21200,axial,1
+3,roate 00100;lysin 10010;alibi 22222,alibi,1
+2,roate 00100;lysin 10011,final,1
+2,roate 00100;lysin 10012,align,1
+2,roate 00100;lysin 10020,cavil,2
+3,roate 00100;lysin 10020;cavil 02121,valid,1
+3,roate 00100;lysin 10020;cavil 22222,cavil,1
+2,roate 00100;lysin 10021,anvil,1
+2,roate 00100;lysin 10100,salad,3
+3,roate 00100;lysin 10100;salad 10120,usual,1
+3,roate 00100;lysin 10100;salad 22210,salsa,1
+3,roate 00100;lysin 10100;salad 22222,salad,1
+2,roate 00100;lysin 10200,basal,1
+2,roate 00100;lysin 10201,nasal,1
+2,roate 00100;lysin 10220,basil,1
+2,roate 00100;lysin 11000,balmy,8
+3,roate 00100;lysin 11000;balmy 01102,apply,1
+3,roate 00100;lysin 11000;balmy 01112,amply,1
+3,roate 00100;lysin 11000;balmy 01202,allay,1
+3,roate 00100;lysin 11000;balmy 02102,gayly,1
+3,roate 00100;lysin 11000;balmy 02112,madly,1
+3,roate 00100;lysin 11000;balmy 02202,dally,1
+3,roate 00100;lysin 11000;balmy 22102,badly,1
+3,roate 00100;lysin 11000;balmy 22222,balmy,1
+2,roate 00100;lysin 11001,manly,1
+2,roate 00100;lysin 11010,daily,2
+3,roate 00100;lysin 11010;daily 02222,gaily,1
+3,roate 00100;lysin 11010;daily 22222,daily,1
+2,roate 00100;lysin 11011,inlay,1
+2,roate 00100;lysin 11100,palsy,3
+3,roate 00100;lysin 11100;palsy 02112,sadly,1
+3,roate 00100;lysin 11100;palsy 02212,sally,1
+3,roate 00100;lysin 11100;palsy 22222,palsy,1
+2,roate 00100;lysin 12000,bylaw,1
+2,roate 00100;lysin 20000,laugh,1
+2,roate 00100;lysin 20010,lilac,1
+2,roate 00100;lysin 21001,lanky,1
+1,roate 00101,genal,55
+2,roate 00101;genal 01010,abbey,2
+3,roate 00101;genal 01010;abbey 20020,askew,1
+3,roate 00101;genal 01010;abbey 22222,abbey,1
+2,roate 00101;genal 01011,abled,2
+3,roate 00101;genal 01011;abled 20220,alley,1
+3,roate 00101;genal 01011;abled 22222,abled,1
+2,roate 00101;genal 01012,bachs,5
+3,roate 00101;genal 01012;bachs 02000,lapel,1
+3,roate 00101;genal 01012;bachs 02001,easel,1
+3,roate 00101;genal 01012;bachs 02010,hazel,1
+3,roate 00101;genal 01012;bachs 02100,camel,1
+3,roate 00101;genal 01012;bachs 12000,label,1
+2,roate 00101;genal 01020,ahead,4
+3,roate 00101;genal 01020;ahead 00120,essay,1
+3,roate 00101;genal 01020;ahead 00220,speak,1
+3,roate 00101;genal 01020;ahead 02220,cheap,1
+3,roate 00101;genal 01020;ahead 22222,ahead,1
+2,roate 00101;genal 01021,bleak,2
+3,roate 00101;genal 01021;bleak 02220,plead,1
+3,roate 00101;genal 01021;bleak 22222,bleak,1
+2,roate 00101;genal 01022,equal,2
+3,roate 00101;genal 01022;equal 10022,ideal,1
+3,roate 00101;genal 01022;equal 22222,equal,1
+2,roate 00101;genal 01110,ashen,6
+3,roate 00101;genal 01110;ashen 10011,enema,1
+3,roate 00101;genal 01110;ashen 10022,waxen,1
+3,roate 00101;genal 01110;ashen 10111,hyena,1
+3,roate 00101;genal 01110;ashen 10122,haven,1
+3,roate 00101;genal 01110;ashen 20011,amend,1
+3,roate 00101;genal 01110;ashen 22222,ashen,1
+2,roate 00101;genal 01111,alien,2
+3,roate 00101;genal 01111;alien 11022,laden,1
+3,roate 00101;genal 01111;alien 22222,alien,1
+2,roate 00101;genal 01112,navel,1
+2,roate 00101;genal 01120,knead,2
+3,roate 00101;genal 01120;knead 12220,sneak,1
+3,roate 00101;genal 01120;knead 22222,knead,1
+2,roate 00101;genal 01121,clean,1
+2,roate 00101;genal 01210,annex,2
+3,roate 00101;genal 01210;annex 20220,apnea,1
+3,roate 00101;genal 01210;annex 22222,annex,1
+2,roate 00101;genal 01212,panel,1
+2,roate 00101;genal 02010,mecca,3
+3,roate 00101;genal 02010;mecca 02002,sepia,1
+3,roate 00101;genal 02010;mecca 22002,media,1
+3,roate 00101;genal 02010;mecca 22222,mecca,1
+2,roate 00101;genal 02011,fella,1
+2,roate 00101;genal 02020,decay,2
+3,roate 00101;genal 02020;decay 02020,kebab,1
+3,roate 00101;genal 02020;decay 22222,decay,1
+2,roate 00101;genal 02021,delay,1
+2,roate 00101;genal 02022,medal,4
+3,roate 00101;genal 02022;medal 02022,fecal,1
+3,roate 00101;genal 02022;medal 02122,decal,1
+3,roate 00101;genal 02022;medal 02222,pedal,1
+3,roate 00101;genal 02022;medal 22222,medal,1
+2,roate 00101;genal 02120,pecan,2
+3,roate 00101;genal 02120;pecan 02022,sedan,1
+3,roate 00101;genal 02120;pecan 22222,pecan,1
+2,roate 00101;genal 02222,penal,1
+2,roate 00101;genal 11010,cagey,1
+2,roate 00101;genal 11012,bagel,1
+2,roate 00101;genal 11112,angel,1
+2,roate 00101;genal 12022,legal,1
+2,roate 00101;genal 12120,began,2
+3,roate 00101;genal 12120;began 02222,vegan,1
+3,roate 00101;genal 12120;began 22222,began,1
+2,roate 00101;genal 21012,gavel,1
+2,roate 00101;genal 21021,gleam,1
+2,roate 00101;genal 21121,glean,1
+1,roate 00102,mauls,45
+2,roate 00102;mauls 01000,abide,1
+2,roate 00102;mauls 01001,aside,1
+2,roate 00102;mauls 01010,alike,3
+3,roate 00102;mauls 01010;alike 22002,algae,1
+3,roate 00102;mauls 01010;alike 22202,alive,1
+3,roate 00102;mauls 01010;alike 22222,alike,1
+2,roate 00102;mauls 01020,angle,4
+3,roate 00102;mauls 01020;angle 20022,apple,1
+3,roate 00102;mauls 01020;angle 20122,agile,1
+3,roate 00102;mauls 01020;angle 22022,ankle,1
+3,roate 00102;mauls 01020;angle 22222,angle,1
+2,roate 00102;mauls 01021,aisle,1
+2,roate 00102;mauls 01201,abuse,1
+2,roate 00102;mauls 02000,anigh,7
+3,roate 00102;mauls 02000;anigh 10000,payee,1
+3,roate 00102;mauls 02000;anigh 10001,cache,1
+3,roate 00102;mauls 02000;anigh 10010,gaffe,1
+3,roate 00102;mauls 02000;anigh 10020,badge,1
+3,roate 00102;mauls 02000;anigh 10200,waive,1
+3,roate 00102;mauls 02000;anigh 11000,dance,1
+3,roate 00102;mauls 02000;anigh 11200,naive,1
+2,roate 00102;mauls 02010,halve,3
+3,roate 00102;mauls 02010;halve 02102,lance,1
+3,roate 00102;mauls 02010;halve 02222,valve,1
+3,roate 00102;mauls 02010;halve 22222,halve,1
+2,roate 00102;mauls 02011,false,3
+3,roate 00102;mauls 02011;false 02122,lapse,1
+3,roate 00102;mauls 02011;false 02212,salve,1
+3,roate 00102;mauls 02011;false 22222,false,1
+2,roate 00102;mauls 02020,abcee,4
+3,roate 00102;mauls 02020;abcee 10002,ladle,1
+3,roate 00102;mauls 02020;abcee 10012,eagle,1
+3,roate 00102;mauls 02020;abcee 11002,fable,1
+3,roate 00102;mauls 02020;abcee 11102,cable,1
+2,roate 00102;mauls 02100,vague,1
+2,roate 00102;mauls 02110,value,1
+2,roate 00102;mauls 02200,gauge,2
+3,roate 00102;mauls 02200;gauge 22202,gauze,1
+3,roate 00102;mauls 02200;gauge 22222,gauge,1
+2,roate 00102;mauls 02201,cause,3
+3,roate 00102;mauls 02201;cause 02222,pause,1
+3,roate 00102;mauls 02201;cause 12212,sauce,1
+3,roate 00102;mauls 02201;cause 22222,cause,1
+2,roate 00102;mauls 11000,anime,1
+2,roate 00102;mauls 11020,amble,2
+3,roate 00102;mauls 11020;amble 22022,ample,1
+3,roate 00102;mauls 11020;amble 22222,amble,1
+2,roate 00102;mauls 11201,amuse,1
+2,roate 00102;mauls 22000,abaci,3
+3,roate 00102;mauls 22000;abaci 10000,mange,1
+3,roate 00102;mauls 22000;abaci 10001,maize,1
+3,roate 00102;mauls 22000;abaci 11000,maybe,1
+2,roate 00102;mauls 22001,masse,1
+2,roate 00102;mauls 22020,maple,1
+2,roate 00102;mauls 22200,mauve,1
+1,roate 00110,clint,50
+2,roate 00110;clint 00001,tabby,4
+3,roate 00110;clint 00001;tabby 12000,datum,1
+3,roate 00110;clint 00001;tabby 12002,patsy,1
+3,roate 00110;clint 00001;tabby 22002,taffy,1
+3,roate 00110;clint 00001;tabby 22222,tabby,1
+2,roate 00110;clint 00002,gamut,2
+3,roate 00110;clint 00002;gamut 01012,squat,1
+3,roate 00110;clint 00002;gamut 22222,gamut,1
+2,roate 00110;clint 00011,tangy,1
+2,roate 00110;clint 00012,angst,1
+2,roate 00110;clint 00021,tawny,1
+2,roate 00110;clint 00022,dight,6
+3,roate 00110;clint 00022;dight 00002,ajiva,3
+4,roate 00110;clint 00022;dight 00002;ajiva 10000,taunt,1
+4,roate 00110;clint 00022;dight 00002;ajiva 10010,vaunt,1
+4,roate 00110;clint 00022;dight 00002;ajiva 11000,jaunt,1
+3,roate 00110;clint 00022;dight 00012,haunt,1
+3,roate 00110;clint 00022;dight 00102,gaunt,1
+3,roate 00110;clint 00022;dight 20002,daunt,1
+2,roate 00110;clint 00101,tibia,1
+2,roate 00110;clint 00102,admit,3
+3,roate 00110;clint 00102;admit 10022,habit,1
+3,roate 00110;clint 00102;admit 21022,audit,1
+3,roate 00110;clint 00102;admit 22222,admit,1
+2,roate 00110;clint 00111,satin,2
+3,roate 00110;clint 00111;satin 01212,titan,1
+3,roate 00110;clint 00111;satin 22222,satin,1
+2,roate 00110;clint 00202,waist,1
+2,roate 00110;clint 00222,fetts,4
+3,roate 00110;clint 00222;fetts 00100,paint,1
+3,roate 00110;clint 00222;fetts 00101,saint,1
+3,roate 00110;clint 00222;fetts 00110,taint,1
+3,roate 00110;clint 00222;fetts 20100,faint,1
+2,roate 00110;clint 01001,aptly,4
+3,roate 00110;clint 01001;aptly 10110,tubal,1
+3,roate 00110;clint 01001;aptly 10122,tally,1
+3,roate 00110;clint 01001;aptly 10210,fatal,1
+3,roate 00110;clint 01001;aptly 22222,aptly,1
+2,roate 00110;clint 01002,fault,4
+3,roate 00110;clint 01002;fault 01012,splat,1
+3,roate 00110;clint 01002;fault 01222,adult,1
+3,roate 00110;clint 01002;fault 02222,vault,1
+3,roate 00110;clint 01002;fault 22222,fault,1
+2,roate 00110;clint 01011,natal,1
+2,roate 00110;clint 01101,tidal,2
+3,roate 00110;clint 01101;tidal 12022,vital,1
+3,roate 00110;clint 01101;tidal 22222,tidal,1
+2,roate 00110;clint 10001,bumph,6
+3,roate 00110;clint 10001;bumph 00000,tacky,1
+3,roate 00110;clint 10001;bumph 00002,hatch,2
+4,roate 00110;clint 10001;bumph 00002;hatch 02222,watch,1
+4,roate 00110;clint 10001;bumph 00002;hatch 22222,hatch,1
+3,roate 00110;clint 10001;bumph 00012,patch,1
+3,roate 00110;clint 10001;bumph 00102,match,1
+3,roate 00110;clint 10001;bumph 20002,batch,1
+2,roate 00110;clint 10002,yacht,1
+2,roate 00110;clint 10101,attic,1
+2,roate 00110;clint 10102,tacit,1
+2,roate 00110;clint 10111,antic,1
+2,roate 00110;clint 11001,latch,1
+2,roate 00110;clint 20001,catch,1
+2,roate 00110;clint 20002,caput,1
+1,roate 00111,clept,25
+2,roate 00111;clept 00101,eaten,3
+3,roate 00111;clept 00101;eaten 02122,taken,1
+3,roate 00111;clept 00101;eaten 02220,matey,1
+3,roate 00111;clept 00101;eaten 22222,eaten,1
+2,roate 00111;clept 00102,asset,2
+3,roate 00111;clept 00102;asset 10012,begat,1
+3,roate 00111;clept 00102;asset 22222,asset,1
+2,roate 00111;clept 00201,adsum,4
+3,roate 00111;clept 00201;adsum 10000,tweak,1
+3,roate 00111;clept 00201;adsum 10100,steak,1
+3,roate 00111;clept 00201;adsum 10102,steam,1
+3,roate 00111;clept 00201;adsum 11100,stead,1
+2,roate 00111;clept 00202,sweat,3
+3,roate 00111;clept 00202;sweat 00212,agent,1
+3,roate 00111;clept 00202;sweat 01222,wheat,1
+3,roate 00111;clept 00202;sweat 22222,sweat,1
+2,roate 00111;clept 00222,adept,1
+2,roate 00111;clept 01101,fetal,2
+3,roate 00111;clept 01101;fetal 02222,metal,1
+3,roate 00111;clept 01101;fetal 22222,fetal,1
+2,roate 00111;clept 01102,valet,1
+2,roate 00111;clept 01111,petal,1
+2,roate 00111;clept 01201,steal,1
+2,roate 00111;clept 02202,bleat,1
+2,roate 00111;clept 02212,pleat,1
+2,roate 00111;clept 10102,facet,1
+2,roate 00111;clept 11102,eclat,1
+2,roate 00111;clept 20102,cadet,1
+2,roate 00111;clept 20202,cheat,1
+2,roate 00111;clept 22202,cleat,1
+1,roate 00112,bathe,3
+2,roate 00112;bathe 02222,lathe,1
+2,roate 00112;bathe 12102,table,1
+2,roate 00112;bathe 22222,bathe,1
+1,roate 00120,snipy,18
+2,roate 00120;snipy 00000,waltz,1
+2,roate 00120;snipy 00002,abaca,4
+3,roate 00120;snipy 00002;abaca 10000,fatty,2
+4,roate 00120;snipy 00002;abaca 10000;fatty 02222,tatty,1
+4,roate 00120;snipy 00002;abaca 10000;fatty 22222,fatty,1
+3,roate 00120;snipy 00002;abaca 10010,catty,1
+3,roate 00120;snipy 00002;abaca 11000,batty,1
+2,roate 00120;snipy 00012,patty,1
+2,roate 00120;snipy 00100,cacti,1
+2,roate 00120;snipy 00200,faith,1
+2,roate 00120;snipy 00202,amity,1
+2,roate 00120;snipy 01000,junta,1
+2,roate 00120;snipy 01002,aunty,1
+2,roate 00120;snipy 10002,hasty,2
+3,roate 00120;snipy 10002;hasty 02222,tasty,1
+3,roate 00120;snipy 10002;hasty 22222,hasty,1
+2,roate 00120;snipy 10010,pasta,1
+2,roate 00120;snipy 10012,pasty,1
+2,roate 00120;snipy 10100,vista,1
+2,roate 00120;snipy 11002,nasty,1
+2,roate 00120;snipy 20002,salty,1
+1,roate 00121,delta,2
+2,roate 00121;delta 01022,theta,1
+2,roate 00121;delta 22222,delta,1
+1,roate 00122,butch,10
+2,roate 00122;butch 00100,attap,3
+3,roate 00122;butch 00100;attap 11000,waste,1
+3,roate 00122;butch 00100;attap 11001,paste,1
+3,roate 00122;butch 00100;attap 11100,taste,1
+2,roate 00122;butch 00101,haste,1
+2,roate 00122;butch 00110,caste,1
+2,roate 00122;butch 00200,latte,1
+2,roate 00122;butch 01100,saute,1
+2,roate 00122;butch 01101,haute,1
+2,roate 00122;butch 01110,acute,1
+2,roate 00122;butch 20100,baste,1
+1,roate 00200,slick,71
+2,roate 00200;slick 00000,guava,1
+2,roate 00200;slick 00010,chaff,2
+3,roate 00200;slick 00010;chaff 22200,champ,1
+3,roate 00200;slick 00010;chaff 22222,chaff,1
+2,roate 00200;slick 00022,abuna,4
+3,roate 00200;slick 00022;abuna 10000,whack,1
+3,roate 00200;slick 00022;abuna 10010,knack,1
+3,roate 00200;slick 00022;abuna 10100,quack,1
+3,roate 00200;slick 00022;abuna 22001,aback,1
+2,roate 00200;slick 00100,again,1
+2,roate 00200;slick 00101,khaki,1
+2,roate 00200;slick 00110,chain,1
+2,roate 00200;slick 01000,qualm,1
+2,roate 00200;slick 01012,chalk,1
+2,roate 00200;slick 01100,avail,2
+3,roate 00200;slick 01100;avail 00222,quail,1
+3,roate 00200;slick 01100;avail 22222,avail,1
+2,roate 00200;slick 02000,abamp,4
+3,roate 00200;slick 02000;abamp 00200,gland,1
+3,roate 00200;slick 02000;abamp 01200,bland,1
+3,roate 00200;slick 02000;abamp 10201,plaza,1
+3,roate 00200;slick 02000;abamp 10220,llama,1
+2,roate 00200;slick 02001,flaky,1
+2,roate 00200;slick 02002,abaft,3
+3,roate 00200;slick 02002;abaft 00200,plank,1
+3,roate 00200;slick 02002;abaft 00210,flank,1
+3,roate 00200;slick 02002;abaft 01200,blank,1
+2,roate 00200;slick 02010,clamp,2
+3,roate 00200;slick 02010;clamp 22200,clang,1
+3,roate 00200;slick 02010;clamp 22222,clamp,1
+2,roate 00200;slick 02012,clank,1
+2,roate 00200;slick 02022,abaft,3
+3,roate 00200;slick 02022;abaft 00200,clack,1
+3,roate 00200;slick 02022;abaft 00210,flack,1
+3,roate 00200;slick 02022;abaft 01200,black,1
+2,roate 00200;slick 02100,plaid,3
+3,roate 00200;slick 02100;plaid 02220,flail,1
+3,roate 00200;slick 02100;plaid 22220,plain,1
+3,roate 00200;slick 02100;plaid 22222,plaid,1
+2,roate 00200;slick 02110,claim,1
+2,roate 00200;slick 10000,aargh,4
+3,roate 00200;slick 10000;aargh 10002,quash,1
+3,roate 00200;slick 10000;aargh 10012,gnash,1
+3,roate 00200;slick 10000;aargh 21000,amass,1
+3,roate 00200;slick 10000;aargh 21002,awash,1
+2,roate 00200;slick 10010,chasm,1
+2,roate 00200;slick 10100,quasi,1
+2,roate 00200;slick 11000,psalm,1
+2,roate 00200;slick 12000,flash,2
+3,roate 00200;slick 12000;flash 02220,glass,1
+3,roate 00200;slick 12000;flash 22222,flash,1
+2,roate 00200;slick 12002,flask,1
+2,roate 00200;slick 12010,aches,3
+3,roate 00200;slick 12010;aches 11001,clasp,1
+3,roate 00200;slick 12010;aches 11002,class,1
+3,roate 00200;slick 12010;aches 11101,clash,1
+2,roate 00200;slick 20000,smash,6
+3,roate 00200;slick 20000;smash 20200,spawn,1
+3,roate 00200;slick 20000;smash 20201,shady,1
+3,roate 00200;slick 20000;smash 20222,swash,1
+3,roate 00200;slick 20000;smash 21200,swamp,1
+3,roate 00200;slick 20000;smash 21220,spasm,1
+3,roate 00200;slick 20000;smash 22222,smash,1
+2,roate 00200;slick 20001,shaky,2
+3,roate 00200;slick 20001;shaky 20222,snaky,1
+3,roate 00200;slick 20001;shaky 22222,shaky,1
+2,roate 00200;slick 20002,shank,2
+3,roate 00200;slick 20002;shank 20222,spank,1
+3,roate 00200;slick 20002;shank 22222,shank,1
+2,roate 00200;slick 20010,scamp,1
+2,roate 00200;slick 20022,abmho,3
+3,roate 00200;slick 20022;abmho 10000,snack,1
+3,roate 00200;slick 20022;abmho 10010,shack,1
+3,roate 00200;slick 20022;abmho 10100,smack,1
+2,roate 00200;slick 20100,swami,1
+2,roate 00200;slick 21000,shall,3
+3,roate 00200;slick 21000;shall 20222,small,1
+3,roate 00200;slick 21000;shall 22202,shawl,1
+3,roate 00200;slick 21000;shall 22222,shall,1
+2,roate 00200;slick 21010,acidy,3
+3,roate 00200;slick 21010;acidy 12000,scalp,1
+3,roate 00200;slick 21010;acidy 12002,scaly,1
+3,roate 00200;slick 21010;acidy 12010,scald,1
+2,roate 00200;slick 21100,snail,1
+2,roate 00200;slick 22000,slang,2
+3,roate 00200;slick 22000;slang 22200,slash,1
+3,roate 00200;slick 22000;slang 22222,slang,1
+2,roate 00200;slick 22022,slack,1
+2,roate 00200;slick 22100,slain,1
+1,roate 00201,child,11
+2,roate 00201;child 00001,beady,1
+2,roate 00201;child 00010,leafy,2
+3,roate 00201;child 00010;leafy 22202,leaky,1
+3,roate 00201;child 00010;leafy 22222,leafy,1
+2,roate 00201;child 00020,mealy,1
+2,roate 00201;child 00110,email,1
+2,roate 00201;child 01000,heavy,1
+2,roate 00201;child 01001,heady,1
+2,roate 00201;child 01010,leash,1
+2,roate 00201;child 11000,beach,2
+3,roate 00201;child 11000;beach 02222,peach,1
+3,roate 00201;child 11000;beach 22222,beach,1
+2,roate 00201;child 11010,leach,1
+1,roate 00202,slump,42
+2,roate 00202;slump 00000,ahind,8
+3,roate 00202;slump 00000;ahind 10000,weave,1
+3,roate 00202;slump 00000;ahind 10001,evade,1
+3,roate 00202;slump 00000;ahind 10010,knave,1
+3,roate 00202;slump 00000;ahind 10120,inane,1
+3,roate 00202;slump 00000;ahind 11000,heave,1
+3,roate 00202;slump 00000;ahind 12000,chafe,1
+3,roate 00202;slump 00000;ahind 20000,awake,1
+3,roate 00202;slump 00000;ahind 20001,adage,1
+2,roate 00202;slump 00001,agape,2
+3,roate 00202;slump 00001;agape 00212,peace,1
+3,roate 00202;slump 00001;agape 22222,agape,1
+2,roate 00202;slump 00010,amaze,2
+3,roate 00202;slump 00010;amaze 02202,image,1
+3,roate 00202;slump 00010;amaze 22222,amaze,1
+2,roate 00202;slump 00100,quake,1
+2,roate 00202;slump 01000,leave,2
+3,roate 00202;slump 01000;leave 10202,whale,1
+3,roate 00202;slump 01000;leave 22222,leave,1
+2,roate 00202;slump 02000,badge,5
+3,roate 00202;slump 02000;badge 01002,flake,1
+3,roate 00202;slump 02000;badge 01012,glaze,1
+3,roate 00202;slump 02000;badge 01112,glade,1
+3,roate 00202;slump 02000;badge 21002,blaze,1
+3,roate 00202;slump 02000;badge 21102,blade,1
+2,roate 00202;slump 02001,place,2
+3,roate 00202;slump 02001;place 22202,plane,1
+3,roate 00202;slump 02001;place 22222,place,1
+2,roate 00202;slump 02020,blame,2
+3,roate 00202;slump 02020;blame 02222,flame,1
+3,roate 00202;slump 02020;blame 22222,blame,1
+2,roate 00202;slump 10000,cease,3
+3,roate 00202;slump 10000;cease 00222,abase,1
+3,roate 00202;slump 10000;cease 20222,chase,1
+3,roate 00202;slump 10000;cease 22222,cease,1
+2,roate 00202;slump 10001,phase,1
+2,roate 00202;slump 10100,usage,1
+2,roate 00202;slump 11000,lease,1
+2,roate 00202;slump 20000,danks,4
+3,roate 00202;slump 20000;danks 01001,shave,1
+3,roate 00202;slump 20000;danks 01021,shake,1
+3,roate 00202;slump 20000;danks 01121,snake,1
+3,roate 00202;slump 20000;danks 11001,shade,1
+2,roate 00202;slump 20001,space,3
+3,roate 00202;slump 20001;space 21202,shape,1
+3,roate 00202;slump 20001;space 22202,spade,1
+3,roate 00202;slump 20001;space 22222,space,1
+2,roate 00202;slump 20020,shame,1
+2,roate 00202;slump 20100,suave,1
+2,roate 00202;slump 21000,scale,2
+3,roate 00202;slump 21000;scale 20222,shale,1
+3,roate 00202;slump 21000;scale 22222,scale,1
+2,roate 00202;slump 22000,slave,1
+1,roate 00210,slink,23
+2,roate 00210;slink 00000,adapt,1
+2,roate 00210;slink 00020,chant,2
+3,roate 00210;slink 00020;chant 00221,twang,1
+3,roate 00210;slink 00020;chant 22222,chant,1
+2,roate 00210;slink 00022,thank,1
+2,roate 00210;slink 00100,await,1
+2,roate 00210;slink 00120,giant,1
+2,roate 00210;slink 02020,plant,1
+2,roate 00210;slink 02100,plait,1
+2,roate 00210;slink 12000,blast,1
+2,roate 00210;slink 20000,shaft,4
+3,roate 00210;slink 20000;shaft 20201,stamp,1
+3,roate 00210;slink 20000;shaft 20221,staff,1
+3,roate 00210;slink 20000;shaft 21201,stash,1
+3,roate 00210;slink 20000;shaft 22222,shaft,1
+2,roate 00210;slink 20002,stack,1
+2,roate 00210;slink 20020,scant,2
+3,roate 00210;slink 20020;scant 20221,stand,1
+3,roate 00210;slink 20020;scant 22222,scant,1
+2,roate 00210;slink 20022,stank,1
+2,roate 00210;slink 20100,staid,1
+2,roate 00210;slink 20110,stain,1
+2,roate 00210;slink 21000,shalt,2
+3,roate 00210;slink 21000;shalt 20221,stall,1
+3,roate 00210;slink 21000;shalt 22222,shalt,1
+2,roate 00210;slink 21002,stalk,1
+2,roate 00210;slink 22020,slant,1
+1,roate 00211,enols,12
+2,roate 00211;enols 10000,teach,1
+2,roate 00211;enols 10001,abaft,3
+3,roate 00211;enols 10001;abaft 00202,yeast,1
+3,roate 00211;enols 10001;abaft 00212,feast,1
+3,roate 00211;enols 10001;abaft 01202,beast,1
+2,roate 00211;enols 10010,leapt,1
+2,roate 00211;enols 10011,least,1
+2,roate 00211;enols 10020,dealt,1
+2,roate 00211;enols 11000,meant,1
+2,roate 00211;enols 11010,leant,1
+2,roate 00211;enols 20000,exact,1
+2,roate 00211;enols 20020,exalt,1
+2,roate 00211;enols 22000,enact,1
+1,roate 00212,gleek,5
+2,roate 00212;gleek 00100,stave,1
+2,roate 00212;gleek 00101,stake,1
+2,roate 00212;gleek 00110,tease,1
+2,roate 00212;gleek 01100,stale,1
+2,roate 00212;gleek 10100,stage,1
+1,roate 00220,swath,1
+1,roate 00221,death,3
+2,roate 00221;death 02220,meaty,1
+2,roate 00221;death 02222,heath,1
+2,roate 00221;death 22222,death,1
+1,roate 00222,balks,7
+2,roate 00222;balks 01000,agate,1
+2,roate 00222;balks 01001,state,1
+2,roate 00222;balks 01011,skate,1
+2,roate 00222;balks 01100,elate,2
+3,roate 00222;balks 01100;elate 02222,plate,1
+3,roate 00222;balks 01100;elate 22222,elate,1
+2,roate 00222;balks 01101,slate,1
+2,roate 00222;balks 11000,abate,1
+1,roate 01000,snool,66
+2,roate 01000;snool 00020,buxom,3
+3,roate 01000;snool 00020;buxom 00020,widow,1
+3,roate 01000;snool 00020;buxom 00022,idiom,1
+3,roate 01000;snool 00020;buxom 22222,buxom,1
+2,roate 01000;snool 00100,gumbo,7
+3,roate 01000;snool 00100;gumbo 00001,widow,1
+3,roate 01000;snool 00100;gumbo 00002,hippo,1
+3,roate 01000;snool 00100;gumbo 00101,idiom,1
+3,roate 01000;snool 00100;gumbo 01101,opium,1
+3,roate 01000;snool 00100;gumbo 02111,buxom,1
+3,roate 01000;snool 00100;gumbo 02222,jumbo,1
+3,roate 01000;snool 00100;gumbo 22222,gumbo,1
+2,roate 01000;snool 00101,limbo,2
+3,roate 01000;snool 00101;limbo 10001,oddly,1
+3,roate 01000;snool 00101;limbo 22222,limbo,1
+2,roate 01000;snool 00121,igloo,1
+2,roate 01000;snool 00200,chock,1
+2,roate 01000;snool 00201,bifid,4
+3,roate 01000;snool 00201;bifid 00000,clock,1
+3,roate 01000;snool 00201;bifid 00002,cloud,1
+3,roate 01000;snool 00201;bifid 00100,flock,1
+3,roate 01000;snool 00201;bifid 20000,block,1
+2,roate 01000;snool 00202,ghoul,1
+2,roate 01000;snool 00210,ovoid,1
+2,roate 01000;snool 00220,whoop,1
+2,roate 01000;snool 00221,blood,4
+3,roate 01000;snool 00221;blood 02220,gloom,1
+3,roate 01000;snool 00221;blood 02222,flood,1
+3,roate 01000;snool 00221;blood 22220,bloom,1
+3,roate 01000;snool 00221;blood 22222,blood,1
+2,roate 01000;snool 01021,nylon,1
+2,roate 01000;snool 01100,bingo,3
+3,roate 01000;snool 01100;bingo 01111,owing,1
+3,roate 01000;snool 01100;bingo 02222,dingo,1
+3,roate 01000;snool 01100;bingo 22222,bingo,1
+2,roate 01000;snool 01101,lingo,2
+3,roate 01000;snool 01101;lingo 10101,nylon,1
+3,roate 01000;snool 01101;lingo 22222,lingo,1
+2,roate 01000;snool 01200,phony,1
+2,roate 01000;snool 01201,bacon,4
+3,roate 01000;snool 01201;bacon 00012,flown,1
+3,roate 01000;snool 01201;bacon 00112,clown,1
+3,roate 01000;snool 01201;bacon 20011,blond,1
+3,roate 01000;snool 01201;bacon 20012,blown,1
+2,roate 01000;snool 02020,inbox,2
+3,roate 01000;snool 02020;inbox 12020,union,1
+3,roate 01000;snool 02020;inbox 22222,inbox,1
+2,roate 01000;snool 02120,onion,1
+2,roate 01000;snool 02200,knock,2
+3,roate 01000;snool 02200;knock 22200,known,1
+3,roate 01000;snool 02200;knock 22222,knock,1
+2,roate 01000;snool 02202,knoll,1
+2,roate 01000;snool 10100,disco,1
+2,roate 01000;snool 10200,kiosk,1
+2,roate 01000;snool 10201,floss,2
+3,roate 01000;snool 10201;floss 02222,gloss,1
+3,roate 01000;snool 10201;floss 22222,floss,1
+2,roate 01000;snool 11020,bison,1
+2,roate 01000;snool 20200,shock,5
+3,roate 01000;snool 20200;shock 20201,smoky,1
+3,roate 01000;snool 20200;shock 20210,scoff,1
+3,roate 01000;snool 20200;shock 20222,smock,1
+3,roate 01000;snool 20200;shock 22200,showy,1
+3,roate 01000;snool 20200;shock 22222,shock,1
+2,roate 01000;snool 20201,scold,2
+3,roate 01000;snool 20201;scold 20210,slosh,1
+3,roate 01000;snool 20201;scold 22222,scold,1
+2,roate 01000;snool 20202,scowl,2
+3,roate 01000;snool 20202;scowl 20202,spoil,1
+3,roate 01000;snool 20202;scowl 22222,scowl,1
+2,roate 01000;snool 20220,chawk,5
+3,roate 01000;snool 20220;chawk 00000,spoof,1
+3,roate 01000;snool 20220;chawk 00002,spook,1
+3,roate 01000;snool 20220;chawk 00010,swoop,1
+3,roate 01000;snool 20220;chawk 02002,shook,1
+3,roate 01000;snool 20220;chawk 10000,scoop,1
+2,roate 01000;snool 20221,sloop,1
+2,roate 01000;snool 20222,spool,1
+2,roate 01000;snool 21020,scion,2
+3,roate 01000;snool 21020;scion 20021,synod,1
+3,roate 01000;snool 21020;scion 22222,scion,1
+2,roate 01000;snool 21200,shown,1
+2,roate 01000;snool 21220,spoon,2
+3,roate 01000;snool 21220;spoon 20222,swoon,1
+3,roate 01000;snool 21220;spoon 22222,spoon,1
+2,roate 01000;snool 22200,snowy,1
+2,roate 01000;snool 22220,snoop,1
+1,roate 01001,demon,19
+2,roate 01001;demon 01010,epoch,2
+3,roate 01001;demon 01010;epoch 22200,epoxy,1
+3,roate 01001;demon 01010;epoch 22222,epoch,1
+2,roate 01001;demon 01011,ebony,1
+2,roate 01001;demon 01020,elbow,1
+2,roate 01001;demon 01021,enjoy,2
+3,roate 01001;demon 01021;enjoy 22022,envoy,1
+3,roate 01001;demon 01021;enjoy 22222,enjoy,1
+2,roate 01001;demon 02010,cello,3
+3,roate 01001;demon 02010;cello 02222,hello,1
+3,roate 01001;demon 02010;cello 12002,gecko,1
+3,roate 01001;demon 02010;cello 22222,cello,1
+2,roate 01001;demon 02020,below,1
+2,roate 01001;demon 02022,felon,1
+2,roate 01001;demon 02121,venom,1
+2,roate 01001;demon 02122,melon,1
+2,roate 01001;demon 02222,lemon,1
+2,roate 01001;demon 11010,video,1
+2,roate 01001;demon 11012,olden,1
+2,roate 01001;demon 11021,endow,1
+2,roate 01001;demon 22020,decoy,1
+2,roate 01001;demon 22222,demon,1
+1,roate 01002,slick,30
+2,roate 01002;slick 00000,ozone,3
+3,roate 01002;slick 00000;ozone 00212,gnome,1
+3,roate 01002;slick 00000;ozone 00222,phone,1
+3,roate 01002;slick 00000;ozone 22222,ozone,1
+2,roate 01002;slick 00001,evoke,1
+2,roate 01002;slick 00011,choke,1
+2,roate 01002;slick 00020,ounce,1
+2,roate 01002;slick 00100,biome,2
+3,roate 01002;slick 00100;biome 02202,diode,1
+3,roate 01002;slick 00100;biome 22222,biome,1
+2,roate 01002;slick 00200,opine,3
+3,roate 01002;slick 00200;opine 20202,oxide,1
+3,roate 01002;slick 00200;opine 20222,ovine,1
+3,roate 01002;slick 00200;opine 22222,opine,1
+2,roate 01002;slick 01000,whole,1
+2,roate 01002;slick 02000,globe,3
+3,roate 01002;slick 02000;globe 02202,elope,1
+3,roate 01002;slick 02000;globe 22202,glove,1
+3,roate 01002;slick 02000;globe 22222,globe,1
+2,roate 01002;slick 02001,bloke,1
+2,roate 01002;slick 02010,clone,2
+3,roate 01002;slick 02010;clone 22202,clove,1
+3,roate 01002;slick 02010;clone 22222,clone,1
+2,roate 01002;slick 02200,olive,1
+2,roate 01002;slick 10000,obese,2
+3,roate 01002;slick 10000;obese 10022,whose,1
+3,roate 01002;slick 10000;obese 22222,obese,1
+2,roate 01002;slick 10010,chose,1
+2,roate 01002;slick 12010,close,1
+2,roate 01002;slick 20000,shone,2
+3,roate 01002;slick 20000;shone 22202,shove,1
+3,roate 01002;slick 20000;shone 22222,shone,1
+2,roate 01002;slick 20001,smoke,2
+3,roate 01002;slick 20001;smoke 20222,spoke,1
+3,roate 01002;slick 20001;smoke 22222,smoke,1
+2,roate 01002;slick 20010,scone,2
+3,roate 01002;slick 20010;scone 22202,scope,1
+3,roate 01002;slick 20010;scone 22222,scone,1
+2,roate 01002;slick 22000,slope,1
+1,roate 01010,punch,26
+2,roate 01010;punch 00000,idiot,4
+3,roate 01010;punch 00000;idiot 00021,stool,1
+3,roate 01010;punch 00000;idiot 01021,stood,1
+3,roate 01010;punch 00000;idiot 10022,bigot,1
+3,roate 01010;punch 00000;idiot 22222,idiot,1
+2,roate 01010;punch 00001,ghost,2
+3,roate 01010;punch 00001;ghost 02212,shoot,1
+3,roate 01010;punch 00001;ghost 22222,ghost,1
+2,roate 01010;punch 00010,stoic,1
+2,roate 01010;punch 00020,stock,1
+2,roate 01010;punch 00100,ingot,2
+3,roate 01010;punch 00100;ingot 01011,stony,1
+3,roate 01010;punch 00100;ingot 22222,ingot,1
+2,roate 01010;punch 00101,thong,1
+2,roate 01010;punch 01000,flout,2
+3,roate 01010;punch 01000;flout 00222,stout,1
+3,roate 01010;punch 01000;flout 22222,flout,1
+2,roate 01010;punch 01001,shout,1
+2,roate 01010;punch 01010,clout,2
+3,roate 01010;punch 01010;clout 10222,scout,1
+3,roate 01010;punch 01010;clout 22222,clout,1
+2,roate 01010;punch 01100,snout,1
+2,roate 01010;punch 02000,outdo,2
+3,roate 01010;punch 02000;outdo 22202,outgo,1
+3,roate 01010;punch 02000;outdo 22222,outdo,1
+2,roate 01010;punch 02001,ought,1
+2,roate 01010;punch 10000,stomp,2
+3,roate 01010;punch 10000;stomp 22202,stoop,1
+3,roate 01010;punch 10000;stomp 22222,stomp,1
+2,roate 01010;punch 10010,optic,1
+2,roate 01010;punch 11000,spout,1
+2,roate 01010;punch 20000,pilot,2
+3,roate 01010;punch 20000;pilot 22022,pivot,1
+3,roate 01010;punch 20000;pilot 22222,pilot,1
+1,roate 01011,besot,8
+2,roate 01011;besot 01011,often,1
+2,roate 01011;besot 01012,octet,1
+2,roate 01011;besot 01021,extol,1
+2,roate 01011;besot 01121,ethos,1
+2,roate 01011;besot 01212,onset,1
+2,roate 01011;besot 02011,tempo,1
+2,roate 01011;besot 02021,detox,1
+2,roate 01011;besot 02022,depot,1
+1,roate 01012,slank,5
+2,roate 01012;slank 10000,those,1
+2,roate 01012;slank 20000,stove,1
+2,roate 01012;slank 20001,stoke,1
+2,roate 01012;slank 20020,stone,1
+2,roate 01012;slank 21000,stole,1
+1,roate 01020,bunch,8
+2,roate 01020;bunch 00000,ditto,1
+2,roate 01020;bunch 00001,photo,1
+2,roate 01020;bunch 00002,sloth,1
+2,roate 01020;bunch 00012,cloth,1
+2,roate 01020;bunch 00200,pinto,1
+2,roate 01020;bunch 02000,gusto,1
+2,roate 01020;bunch 02002,quoth,1
+2,roate 01020;bunch 02200,junto,1
+1,roate 01021,pesto,1
+1,roate 01022,quote,2
+2,roate 01022;quote 00222,smote,1
+2,roate 01022;quote 22222,quote,1
+1,roate 01100,linos,33
+2,roate 01100;linos 00010,cacao,3
+3,roate 01100;linos 00010;cacao 02002,mambo,1
+3,roate 01100;linos 00010;cacao 02202,macho,1
+3,roate 01100;linos 00010;cacao 22222,cacao,1
+2,roate 01100;linos 00020,bayou,2
+3,roate 01100;linos 00020;bayou 02020,havoc,1
+3,roate 01100;linos 00020;bayou 22222,bayou,1
+2,roate 01100;linos 00021,savoy,1
+2,roate 01100;linos 00110,agony,2
+3,roate 01100;linos 00110;agony 21220,among,1
+3,roate 01100;linos 00110;agony 22222,agony,1
+2,roate 01100;linos 00120,bacon,2
+3,roate 01100;linos 00120;bacon 02022,wagon,1
+3,roate 01100;linos 00120;bacon 22222,bacon,1
+2,roate 01100;linos 00121,mason,1
+2,roate 01100;linos 00210,banjo,2
+3,roate 01100;linos 00210;banjo 02202,mango,1
+3,roate 01100;linos 00210;banjo 22222,banjo,1
+2,roate 01100;linos 00220,annoy,2
+3,roate 01100;linos 00220;annoy 11220,canon,1
+3,roate 01100;linos 00220;annoy 22222,annoy,1
+2,roate 01100;linos 01010,audio,2
+3,roate 01100;linos 01010;audio 20121,avoid,1
+3,roate 01100;linos 01010;audio 22222,audio,1
+2,roate 01100;linos 01020,axiom,1
+2,roate 01100;linos 01120,axion,1
+2,roate 01100;linos 10010,afoul,4
+3,roate 01100;linos 10010;afoul 10201,cloak,1
+3,roate 01100;linos 10010;afoul 12102,offal,1
+3,roate 01100;linos 10010;afoul 20221,aloud,1
+3,roate 01100;linos 10010;afoul 22222,afoul,1
+2,roate 01100;linos 10011,salvo,2
+3,roate 01100;linos 10011;salvo 21101,shoal,1
+3,roate 01100;linos 10011;salvo 22222,salvo,1
+2,roate 01100;linos 10020,aglow,4
+3,roate 01100;linos 10020;aglow 20120,aloof,1
+3,roate 01100;linos 10020;aglow 20220,alloy,1
+3,roate 01100;linos 10020;aglow 20222,allow,1
+3,roate 01100;linos 10020;aglow 22222,aglow,1
+2,roate 01100;linos 10110,along,1
+2,roate 01100;linos 10121,salon,1
+2,roate 01100;linos 12010,viola,1
+2,roate 01100;linos 20011,lasso,1
+1,roate 01101,cameo,4
+2,roate 01101;cameo 01111,omega,1
+2,roate 01101;cameo 02021,oaken,1
+2,roate 01101;cameo 11011,ocean,1
+2,roate 01101;cameo 22222,cameo,1
+1,roate 01102,aband,7
+2,roate 01102;aband 10010,canoe,1
+2,roate 01102;aband 20000,awoke,1
+2,roate 01102;aband 20011,anode,1
+2,roate 01102;aband 20020,alone,1
+2,roate 01102;aband 21001,adobe,1
+2,roate 01102;aband 22000,above,1
+2,roate 01102;aband 22001,abode,1
+1,roate 01110,bloat,17
+2,roate 01110;bloat 00111,patio,2
+3,roate 01110;bloat 00111;patio 02102,tango,1
+3,roate 01110;bloat 00111;patio 22222,patio,1
+2,roate 01110;bloat 00112,ascot,1
+2,roate 01110;bloat 00212,adopt,2
+3,roate 01110;bloat 00212;adopt 20202,afoot,1
+3,roate 01110;bloat 00212;adopt 22222,adopt,1
+2,roate 01110;bloat 01111,talon,1
+2,roate 01110;bloat 01121,octal,1
+2,roate 01110;bloat 01211,atoll,1
+2,roate 01110;bloat 02112,allot,1
+2,roate 01110;bloat 02212,aloft,1
+2,roate 01110;bloat 02222,float,2
+3,roate 01110;bloat 02222;float 02222,gloat,1
+3,roate 01110;bloat 02222;float 22222,float,1
+2,roate 01110;bloat 10111,taboo,1
+2,roate 01110;bloat 10112,abbot,1
+2,roate 01110;bloat 10212,about,1
+2,roate 01110;bloat 20111,baton,1
+2,roate 01110;bloat 22222,bloat,1
+1,roate 01112,atone,1
+1,roate 01120,quota,1
+1,roate 01200,chaos,2
+2,roate 01200;chaos 00210,piano,1
+2,roate 01200;chaos 22222,chaos,1
+1,roate 01222,ovate,1
+1,roate 02000,bludy,71
+2,roate 02000;bludy 00000,cains,7
+3,roate 02000;bludy 00000;cains 00220,going,1
+3,roate 02000;bludy 00000;cains 10000,pooch,1
+3,roate 02000;bludy 00000;cains 10110,ionic,1
+3,roate 02000;bludy 00000;cains 10111,sonic,1
+3,roate 02000;bludy 00000;cains 20010,conch,1
+3,roate 02000;bludy 00000;cains 20100,comic,1
+3,roate 02000;bludy 00000;cains 20110,conic,1
+2,roate 02000;bludy 00002,floss,8
+3,roate 02000;bludy 00002;floss 00100,poppy,1
+3,roate 02000;bludy 00002;floss 00110,soggy,1
+3,roate 02000;bludy 00002;floss 00120,noisy,1
+3,roate 02000;bludy 00002;floss 00121,mossy,1
+3,roate 02000;bludy 00002;floss 00200,woozy,1
+3,roate 02000;bludy 00002;floss 10100,comfy,1
+3,roate 02000;bludy 00002;floss 10200,goofy,1
+3,roate 02000;bludy 00002;floss 20100,foggy,1
+2,roate 02000;bludy 00010,doing,1
+2,roate 02000;bludy 00012,dodgy,2
+3,roate 02000;bludy 00012;dodgy 22002,downy,1
+3,roate 02000;bludy 00012;dodgy 22222,dodgy,1
+2,roate 02000;bludy 00020,condo,1
+2,roate 02000;bludy 00022,hawms,5
+3,roate 02000;bludy 00022;hawms 00000,goody,1
+3,roate 02000;bludy 00022;hawms 00010,moody,1
+3,roate 02000;bludy 00022;hawms 00100,woody,1
+3,roate 02000;bludy 00022;hawms 00200,dowdy,1
+3,roate 02000;bludy 00022;hawms 20200,howdy,1
+2,roate 02000;bludy 00100,focus,1
+2,roate 02000;bludy 00200,civic,4
+3,roate 02000;bludy 00200;civic 10000,pouch,1
+3,roate 02000;bludy 00200;civic 10100,vouch,1
+3,roate 02000;bludy 00200;civic 20000,cough,1
+3,roate 02000;bludy 00200;civic 20001,couch,1
+2,roate 02000;bludy 00201,young,1
+2,roate 02000;bludy 00210,hawms,7
+3,roate 02000;bludy 00210;hawms 00000,found,2
+4,roate 02000;bludy 00210;hawms 00000;found 02222,pound,1
+4,roate 02000;bludy 00210;hawms 00000;found 22222,found,1
+3,roate 02000;bludy 00210;hawms 00001,sound,1
+3,roate 02000;bludy 00210;hawms 00010,mound,1
+3,roate 02000;bludy 00210;hawms 00100,wound,1
+3,roate 02000;bludy 00210;hawms 10000,dough,1
+3,roate 02000;bludy 00210;hawms 20000,hound,1
+2,roate 02000;bludy 01000,colon,4
+3,roate 02000;bludy 01000;colon 02102,login,1
+3,roate 02000;bludy 01000;colon 02210,folio,1
+3,roate 02000;bludy 01000;colon 12100,logic,1
+3,roate 02000;bludy 01000;colon 22222,colon,1
+2,roate 02000;bludy 01001,polyp,1
+2,roate 02000;bludy 01002,chowk,8
+3,roate 02000;bludy 01002;chowk 00100,aflaj,3
+4,roate 02000;bludy 01002;chowk 00100;aflaj 00200,golly,1
+4,roate 02000;bludy 01002;chowk 00100;aflaj 00201,jolly,1
+4,roate 02000;bludy 01002;chowk 00100;aflaj 01200,folly,1
+3,roate 02000;bludy 01002;chowk 00110,lowly,1
+3,roate 02000;bludy 01002;chowk 00200,loopy,1
+3,roate 02000;bludy 01002;chowk 00210,wooly,1
+3,roate 02000;bludy 01002;chowk 01100,holly,1
+3,roate 02000;bludy 01002;chowk 20100,coyly,1
+2,roate 02000;bludy 01010,solid,1
+2,roate 02000;bludy 01012,dolly,2
+3,roate 02000;bludy 01012;dolly 12022,godly,1
+3,roate 02000;bludy 01012;dolly 22222,dolly,1
+2,roate 02000;bludy 01022,moldy,1
+2,roate 02000;bludy 01100,locus,2
+3,roate 02000;bludy 01100;locus 12020,mogul,1
+3,roate 02000;bludy 01100;locus 22222,locus,1
+2,roate 02000;bludy 01202,lousy,1
+2,roate 02000;bludy 01210,could,2
+3,roate 02000;bludy 01210;could 02222,would,1
+3,roate 02000;bludy 01210;could 22222,could,1
+2,roate 02000;bludy 10002,hobby,1
+2,roate 02000;bludy 11002,lobby,2
+3,roate 02000;bludy 11002;lobby 12202,nobly,1
+3,roate 02000;bludy 11002;lobby 22222,lobby,1
+2,roate 02000;bludy 20000,bongo,2
+3,roate 02000;bludy 20000;bongo 22001,bosom,1
+3,roate 02000;bludy 20000;bongo 22222,bongo,1
+2,roate 02000;bludy 20002,booby,4
+3,roate 02000;bludy 20002;booby 22002,bossy,1
+3,roate 02000;bludy 20002;booby 22022,bobby,1
+3,roate 02000;bludy 20002;booby 22202,boozy,1
+3,roate 02000;bludy 20002;booby 22222,booby,1
+2,roate 02000;bludy 20100,bonus,1
+2,roate 02000;bludy 20200,bough,1
+2,roate 02000;bludy 20210,bound,1
+1,roate 02001,wynds,21
+2,roate 02001;wynds 00000,golem,2
+3,roate 02001;wynds 00000;golem 02120,hovel,1
+3,roate 02001;wynds 00000;golem 22222,golem,1
+2,roate 02001;wynds 00010,model,2
+3,roate 02001;wynds 00010;model 22220,modem,1
+3,roate 02001;wynds 00010;model 22222,model,1
+2,roate 02001;wynds 00100,coven,2
+3,roate 02001;wynds 00100;coven 02221,novel,1
+3,roate 02001;wynds 00100;coven 22222,coven,1
+2,roate 02001;wynds 00110,dozen,1
+2,roate 02001;wynds 01000,covey,2
+3,roate 02001;wynds 01000;covey 02022,gooey,1
+3,roate 02001;wynds 01000;covey 22222,covey,1
+2,roate 02001;wynds 01001,poesy,1
+2,roate 02001;wynds 01010,dopey,1
+2,roate 02001;wynds 01101,nosey,1
+2,roate 02001;wynds 01200,abamp,3
+3,roate 02001;wynds 01200;abamp 00000,honey,1
+3,roate 02001;wynds 01200;abamp 00010,money,1
+3,roate 02001;wynds 01200;abamp 01000,boney,1
+2,roate 02001;wynds 10000,bowel,2
+3,roate 02001;wynds 10000;bowel 02222,vowel,1
+3,roate 02001;wynds 10000;bowel 22222,bowel,1
+2,roate 02001;wynds 10010,dowel,1
+2,roate 02001;wynds 20100,amoks,3
+3,roate 02001;wynds 20100;amoks 00100,woven,1
+3,roate 02001;wynds 20100;amoks 00110,woken,1
+3,roate 02001;wynds 20100;amoks 01100,women,1
+1,roate 02002,gusli,22
+2,roate 02002;gusli 00000,booze,1
+2,roate 02002;gusli 00001,movie,2
+3,roate 02002;gusli 00001;movie 02112,voice,1
+3,roate 02002;gusli 00001;movie 22222,movie,1
+2,roate 02002;gusli 00020,noble,1
+2,roate 02002;gusli 00100,moose,3
+3,roate 02002;gusli 00100;moose 02022,copse,1
+3,roate 02002;gusli 00100;moose 02222,noose,1
+3,roate 02002;gusli 00100;moose 22222,moose,1
+2,roate 02002;gusli 00101,noise,2
+3,roate 02002;gusli 00101;noise 02222,poise,1
+3,roate 02002;gusli 00101;noise 22222,noise,1
+2,roate 02002;gusli 00110,loose,2
+3,roate 02002;gusli 00110;loose 12012,solve,1
+3,roate 02002;gusli 00110;loose 22222,loose,1
+2,roate 02002;gusli 00200,posse,1
+2,roate 02002;gusli 01000,coupe,1
+2,roate 02002;gusli 01020,boule,1
+2,roate 02002;gusli 01100,house,2
+3,roate 02002;gusli 01100;house 02222,mouse,1
+3,roate 02002;gusli 01100;house 22222,house,1
+2,roate 02002;gusli 01110,louse,1
+2,roate 02002;gusli 10000,dodge,1
+2,roate 02002;gusli 10010,lodge,1
+2,roate 02002;gusli 11000,vogue,1
+2,roate 02002;gusli 20100,goose,1
+2,roate 02002;gusli 21000,gouge,1
+1,roate 02010,cumin,26
+2,roate 02010;cumin 00000,hotly,3
+3,roate 02010;cumin 00000;hotly 02100,boost,1
+3,roate 02010;cumin 00000;hotly 02102,toddy,1
+3,roate 02010;cumin 00000;hotly 22222,hotly,1
+2,roate 02010;cumin 00010,aflaj,3
+3,roate 02010;cumin 00010;aflaj 00000,hoist,1
+3,roate 02010;cumin 00010;aflaj 00001,joist,1
+3,roate 02010;cumin 00010;aflaj 01000,foist,1
+2,roate 02010;cumin 00011,joint,2
+3,roate 02010;cumin 00011;joint 02222,point,1
+3,roate 02010;cumin 00011;joint 22222,joint,1
+2,roate 02010;cumin 00020,posit,1
+2,roate 02010;cumin 00022,toxin,1
+2,roate 02010;cumin 00110,moist,1
+2,roate 02010;cumin 00120,motif,1
+2,roate 02010;cumin 00220,vomit,1
+2,roate 02010;cumin 01000,doubt,3
+3,roate 02010;cumin 01000;doubt 02201,tough,1
+3,roate 02010;cumin 01000;doubt 02202,joust,1
+3,roate 02010;cumin 01000;doubt 22222,doubt,1
+2,roate 02010;cumin 01001,donut,1
+2,roate 02010;cumin 01100,moult,1
+2,roate 02010;cumin 01101,mount,1
+2,roate 02010;cumin 10000,botch,1
+2,roate 02010;cumin 10001,notch,1
+2,roate 02010;cumin 10020,topic,2
+3,roate 02010;cumin 10020;topic 22022,toxic,1
+3,roate 02010;cumin 10020;topic 22222,topic,1
+2,roate 02010;cumin 10021,tonic,1
+2,roate 02010;cumin 11000,touch,1
+2,roate 02010;cumin 21001,count,1
+1,roate 02011,milch,7
+2,roate 02011;milch 00000,token,1
+2,roate 02011;milch 00010,covet,1
+2,roate 02011;milch 00100,towel,1
+2,roate 02011;milch 00101,hotel,1
+2,roate 02011;milch 10000,totem,1
+2,roate 02011;milch 10010,comet,1
+2,roate 02011;milch 20100,motel,1
+1,roate 02020,bushy,12
+2,roate 02020;bushy 00000,motto,1
+2,roate 02020;bushy 00002,lofty,1
+2,roate 02020;bushy 00010,month,2
+3,roate 02020;bushy 00010;month 02022,tooth,1
+3,roate 02020;bushy 00010;month 22222,month,1
+2,roate 02020;bushy 00102,sooty,1
+2,roate 02020;bushy 00110,sooth,1
+2,roate 02020;bushy 01002,pouty,1
+2,roate 02020;bushy 01010,mouth,1
+2,roate 02020;bushy 01011,youth,1
+2,roate 02020;bushy 01110,south,1
+2,roate 02020;bushy 20002,booty,1
+2,roate 02020;bushy 20010,booth,1
+1,roate 02100,liman,16
+2,roate 02100;liman 00010,cocoa,2
+3,roate 02100;liman 00010;cocoa 02002,vodka,1
+3,roate 02100;liman 00010;cocoa 22222,cocoa,1
+2,roate 02100;liman 00021,gonad,1
+2,roate 02100;liman 00110,dogma,2
+3,roate 02100;liman 00110;dogma 02012,mocha,1
+3,roate 02100;liman 00110;dogma 22222,dogma,1
+2,roate 02100;liman 00210,comma,1
+2,roate 02100;liman 00221,nomad,1
+2,roate 02100;liman 00222,woman,1
+2,roate 02100;liman 10010,polka,1
+2,roate 02100;liman 10020,focal,2
+3,roate 02100;liman 10020;focal 02222,vocal,1
+3,roate 02100;liman 10020;focal 22222,focal,1
+2,roate 02100;liman 10021,zonal,1
+2,roate 02100;liman 10120,modal,1
+2,roate 02100;liman 11010,voila,1
+2,roate 02100;liman 20020,local,2
+3,roate 02100;liman 20020;local 22022,loyal,1
+3,roate 02100;liman 20020;local 22222,local,1
+1,roate 02110,aland,5
+2,roate 02110;aland 10000,topaz,1
+2,roate 02110;aland 10001,today,1
+2,roate 02110;aland 10010,tonga,1
+2,roate 02110;aland 11000,total,1
+2,roate 02110;aland 11010,tonal,1
+1,roate 02200,loamy,5
+2,roate 02200;loamy 02200,coach,1
+2,roate 02200;loamy 02202,soapy,1
+2,roate 02200;loamy 02222,foamy,1
+2,roate 02200;loamy 12200,koala,1
+2,roate 02200;loamy 22222,loamy,1
+1,roate 02210,abaca,3
+2,roate 02210;abaca 00200,toast,1
+2,roate 02210;abaca 00210,coast,1
+2,roate 02210;abaca 01200,boast,1
+1,roate 02220,loath,1
+1,roate 10000,sculk,63
+2,roate 10000;sculk 00000,bring,7
+3,roate 10000;sculk 00000;bring 01000,myrrh,1
+3,roate 10000;sculk 00000;bring 02200,privy,1
+3,roate 10000;sculk 00000;bring 02201,grimy,1
+3,roate 10000;sculk 00000;bring 02221,grind,1
+3,roate 10000;sculk 00000;bring 02222,wring,1
+3,roate 10000;sculk 00000;bring 22220,briny,1
+3,roate 10000;sculk 00000;bring 22222,bring,1
+2,roate 10000;sculk 00002,brink,2
+3,roate 10000;sculk 00002;brink 02222,drink,1
+3,roate 10000;sculk 00002;brink 22222,brink,1
+2,roate 10000;sculk 00010,whirl,1
+2,roate 10000;sculk 00020,bifid,6
+3,roate 10000;sculk 00020;bifid 00000,wryly,1
+3,roate 10000;sculk 00020;bifid 00001,dryly,1
+3,roate 10000;sculk 00020;bifid 01000,grill,1
+3,roate 10000;sculk 00020;bifid 01001,drill,1
+3,roate 10000;sculk 00020;bifid 01100,frill,1
+3,roate 10000;sculk 00020;bifid 02000,girly,1
+2,roate 10000;sculk 00021,krill,1
+2,roate 10000;sculk 00100,furry,2
+3,roate 10000;sculk 00100;furry 02222,hurry,1
+3,roate 10000;sculk 00100;furry 22222,furry,1
+2,roate 10000;sculk 00101,murky,1
+2,roate 10000;sculk 00102,quirk,1
+2,roate 10000;sculk 00110,lurid,1
+2,roate 10000;sculk 00120,burly,1
+2,roate 10000;sculk 00200,gruff,3
+3,roate 10000;sculk 00200;gruff 02200,druid,1
+3,roate 10000;sculk 00200;gruff 12200,wrung,1
+3,roate 10000;sculk 00200;gruff 22222,gruff,1
+2,roate 10000;sculk 00202,drunk,1
+2,roate 10000;sculk 00210,blurb,1
+2,roate 10000;sculk 01000,birch,3
+3,roate 10000;sculk 01000;birch 01110,crimp,1
+3,roate 10000;sculk 01000;birch 01111,chirp,1
+3,roate 10000;sculk 01000;birch 22222,birch,1
+2,roate 10000;sculk 01002,abamp,3
+3,roate 10000;sculk 01002;abamp 00000,crick,1
+3,roate 10000;sculk 01002;abamp 00001,prick,1
+3,roate 10000;sculk 01002;abamp 01000,brick,1
+2,roate 10000;sculk 01010,lyric,1
+2,roate 10000;sculk 01100,curry,3
+3,roate 10000;sculk 01100;curry 11100,incur,1
+3,roate 10000;sculk 01100;curry 22202,curvy,1
+3,roate 10000;sculk 01100;curry 22222,curry,1
+2,roate 10000;sculk 01110,lurch,1
+2,roate 10000;sculk 01120,curly,1
+2,roate 10000;sculk 01200,crumb,3
+3,roate 10000;sculk 01200;crumb 21200,churn,1
+3,roate 10000;sculk 01200;crumb 22220,crump,1
+3,roate 10000;sculk 01200;crumb 22222,crumb,1
+2,roate 10000;sculk 10000,prism,1
+2,roate 10000;sculk 10002,brisk,2
+3,roate 10000;sculk 10002;brisk 02222,frisk,1
+3,roate 10000;sculk 10002;brisk 22222,brisk,1
+2,roate 10000;sculk 10100,virus,1
+2,roate 10000;sculk 10200,brush,2
+3,roate 10000;sculk 10200;brush 01210,usurp,1
+3,roate 10000;sculk 10200;brush 22222,brush,1
+2,roate 10000;sculk 11000,crisp,1
+2,roate 10000;sculk 11200,crush,1
+2,roate 10000;sculk 20000,sprig,1
+2,roate 10000;sculk 20002,shirk,2
+3,roate 10000;sculk 20002;shirk 20222,smirk,1
+3,roate 10000;sculk 20002;shirk 22222,shirk,1
+2,roate 10000;sculk 20010,swirl,1
+2,roate 10000;sculk 20100,shrub,3
+3,roate 10000;sculk 20100;shrub 20220,syrup,1
+3,roate 10000;sculk 20100;shrub 22220,shrug,1
+3,roate 10000;sculk 20100;shrub 22222,shrub,1
+2,roate 10000;sculk 20120,surly,1
+2,roate 10000;sculk 20200,spurn,1
+2,roate 10000;sculk 20210,slurp,1
+2,roate 10000;sculk 22100,scrub,2
+3,roate 10000;sculk 22100;scrub 22220,scrum,1
+3,roate 10000;sculk 22100;scrub 22222,scrub,1
+1,roate 10001,siled,102
+2,roate 10001;siled 00010,murry,11
+3,roate 10001;siled 00010;murry 00022,every,1
+3,roate 10001;siled 00010;murry 00100,wreck,1
+3,roate 10001;siled 00010;murry 00200,perch,1
+3,roate 10001;siled 00010;murry 00202,jerky,2
+4,roate 10001;siled 00010;murry 00202;jerky 02222,perky,1
+4,roate 10001;siled 00010;murry 00202;jerky 22222,jerky,1
+3,roate 10001;siled 00010;murry 00222,berry,2
+4,roate 10001;siled 00010;murry 00222;berry 02222,ferry,1
+4,roate 10001;siled 00010;murry 00222;berry 22222,berry,1
+3,roate 10001;siled 00010;murry 02022,query,1
+3,roate 10001;siled 00010;murry 11100,femur,1
+3,roate 10001;siled 00010;murry 20202,mercy,1
+3,roate 10001;siled 00010;murry 20222,merry,1
+2,roate 10001;siled 00011,decry,4
+3,roate 10001;siled 00011;decry 12012,nerdy,1
+3,roate 10001;siled 00011;decry 22010,demur,1
+3,roate 10001;siled 00011;decry 22012,derby,1
+3,roate 10001;siled 00011;decry 22222,decry,1
+2,roate 10001;siled 00020,pence,17
+3,roate 10001;siled 00020;pence 01000,buyer,1
+3,roate 10001;siled 00020;pence 01001,freer,3
+4,roate 10001;siled 00020;pence 01001;freer 00122,ember,1
+4,roate 10001;siled 00020;pence 01001;freer 00222,queer,1
+4,roate 10001;siled 00020;pence 01001;freer 22222,freer,1
+3,roate 10001;siled 00020;pence 01010,cyber,1
+3,roate 10001;siled 00020;pence 01011,cheer,2
+4,roate 10001;siled 00020;pence 01011;cheer 20221,creek,1
+4,roate 10001;siled 00020;pence 01011;cheer 22222,cheer,1
+3,roate 10001;siled 00020;pence 01101,green,1
+3,roate 10001;siled 00020;pence 02001,fever,2
+4,roate 10001;siled 00020;pence 02001;fever 22022,fewer,1
+4,roate 10001;siled 00020;pence 02001;fever 22222,fever,1
+3,roate 10001;siled 00020;pence 02101,never,2
+4,roate 10001;siled 00020;pence 02101;never 22022,newer,1
+4,roate 10001;siled 00020;pence 02101;never 22222,never,1
+3,roate 10001;siled 00020;pence 11000,hyper,2
+4,roate 10001;siled 00020;pence 11000;hyper 00222,upper,1
+4,roate 10001;siled 00020;pence 11000;hyper 22222,hyper,1
+3,roate 10001;siled 00020;pence 11011,creep,1
+3,roate 10001;siled 00020;pence 21000,purer,1
+3,roate 10001;siled 00020;pence 21101,preen,1
+2,roate 10001;siled 00021,arene,4
+3,roate 10001;siled 00021;arene 01100,udder,1
+3,roate 10001;siled 00021;arene 01101,defer,1
+3,roate 10001;siled 00021;arene 01110,under,1
+3,roate 10001;siled 00021;arene 02100,dryer,1
+2,roate 10001;siled 00022,befog,4
+3,roate 10001;siled 00022;befog 01000,creed,1
+3,roate 10001;siled 00022;befog 01001,greed,1
+3,roate 10001;siled 00022;befog 01100,freed,1
+3,roate 10001;siled 00022;befog 21000,breed,1
+2,roate 10001;siled 00110,clerk,3
+3,roate 10001;siled 00110;clerk 01110,lemur,1
+3,roate 10001;siled 00110;clerk 01220,leery,1
+3,roate 10001;siled 00110;clerk 22222,clerk,1
+2,roate 10001;siled 00120,clump,7
+3,roate 10001;siled 00120;clump 01000,lever,1
+3,roate 10001;siled 00120;clump 01001,leper,1
+3,roate 10001;siled 00120;clump 01200,gruel,1
+3,roate 10001;siled 00120;clump 02000,flyer,1
+3,roate 10001;siled 00120;clump 02200,bluer,1
+3,roate 10001;siled 00120;clump 12100,ulcer,1
+3,roate 10001;siled 00120;clump 21200,cruel,1
+2,roate 10001;siled 00121,elder,1
+2,roate 10001;siled 01012,weird,1
+2,roate 10001;siled 01020,brief,5
+3,roate 10001;siled 01020;brief 01120,inner,1
+3,roate 10001;siled 01020;brief 01121,infer,1
+3,roate 10001;siled 01020;brief 02220,crier,1
+3,roate 10001;siled 01020;brief 02222,grief,1
+3,roate 10001;siled 01020;brief 22222,brief,1
+2,roate 10001;siled 01021,drier,1
+2,roate 10001;siled 01022,decaf,4
+3,roate 10001;siled 01022;decaf 11000,pried,1
+3,roate 10001;siled 01022;decaf 11001,fried,1
+3,roate 10001;siled 01022;decaf 11100,cried,1
+3,roate 10001;siled 01022;decaf 21000,dried,1
+2,roate 10001;siled 01110,peril,1
+2,roate 10001;siled 01120,flier,2
+3,roate 10001;siled 01120;flier 02222,plier,1
+3,roate 10001;siled 01120;flier 22222,flier,1
+2,roate 10001;siled 01221,idler,1
+2,roate 10001;siled 02010,fiery,1
+2,roate 10001;siled 02020,fanga,8
+3,roate 10001;siled 02020;fanga 00000,piper,2
+4,roate 10001;siled 02020;fanga 00000;piper 02222,viper,1
+4,roate 10001;siled 02020;fanga 00000;piper 22222,piper,1
+3,roate 10001;siled 02020;fanga 00010,giver,1
+3,roate 10001;siled 02020;fanga 00100,nicer,1
+3,roate 10001;siled 02020;fanga 00200,miner,1
+3,roate 10001;siled 02020;fanga 20000,fiber,2
+4,roate 10001;siled 02020;fanga 20000;fiber 22022,fixer,1
+4,roate 10001;siled 02020;fanga 20000;fiber 22222,fiber,1
+3,roate 10001;siled 02020;fanga 20200,finer,1
+2,roate 10001;siled 02021,clown,4
+3,roate 10001;siled 02021;clown 00000,diver,1
+3,roate 10001;siled 02021;clown 00001,diner,1
+3,roate 10001;siled 02021;clown 00010,wider,1
+3,roate 10001;siled 02021;clown 20000,cider,1
+2,roate 10001;siled 02120,liner,2
+3,roate 10001;siled 02120;liner 22022,liver,1
+3,roate 10001;siled 02120;liner 22222,liner,1
+2,roate 10001;siled 02220,filer,1
+2,roate 10001;siled 10010,cress,3
+3,roate 10001;siled 10010;cress 02220,fresh,1
+3,roate 10001;siled 10010;cress 02222,press,1
+3,roate 10001;siled 10010;cress 22222,cress,1
+2,roate 10001;siled 10011,dress,1
+2,roate 10001;siled 10020,usher,1
+2,roate 10001;siled 12020,miser,2
+3,roate 10001;siled 12020;miser 02222,wiser,1
+3,roate 10001;siled 12020;miser 22222,miser,1
+2,roate 10001;siled 20010,serum,2
+3,roate 10001;siled 20010;serum 21102,sperm,1
+3,roate 10001;siled 20010;serum 22222,serum,1
+2,roate 10001;siled 20020,wheep,8
+3,roate 10001;siled 20020;wheep 00020,surer,1
+3,roate 10001;siled 20020;wheep 00021,super,1
+3,roate 10001;siled 20020;wheep 00120,sever,1
+3,roate 10001;siled 20020;wheep 00220,sneer,1
+3,roate 10001;siled 20020;wheep 02220,sheer,1
+3,roate 10001;siled 20020;wheep 10020,screw,1
+3,roate 10001;siled 20020;wheep 10120,sewer,1
+3,roate 10001;siled 20020;wheep 12020,shrew,1
+2,roate 10001;siled 21010,serif,1
+2,roate 10001;siled 21020,skier,1
+2,roate 10001;siled 22020,siren,1
+1,roate 10002,piums,39
+2,roate 10002;piums 00000,genre,5
+3,roate 10002;piums 00000;genre 01022,where,1
+3,roate 10002;piums 00000;genre 02012,verve,1
+3,roate 10002;piums 00000;genre 02112,nerve,1
+3,roate 10002;piums 00000;genre 12012,verge,1
+3,roate 10002;piums 00000;genre 22222,genre,1
+2,roate 10002;piums 00001,scree,3
+3,roate 10002;piums 00001;scree 10212,verse,1
+3,roate 10002;piums 00001;scree 20212,serve,1
+3,roate 10002;piums 00001;scree 22222,scree,1
+2,roate 10002;piums 00010,merge,1
+2,roate 10002;piums 00020,creme,1
+2,roate 10002;piums 00100,curve,1
+2,roate 10002;piums 00101,curse,3
+3,roate 10002;piums 00101;curse 02212,surge,1
+3,roate 10002;piums 00101;curse 02222,nurse,1
+3,roate 10002;piums 00101;curse 22222,curse,1
+2,roate 10002;piums 00200,crude,1
+2,roate 10002;piums 01000,aband,5
+3,roate 10002;piums 01000;aband 00000,eerie,1
+3,roate 10002;piums 01000;aband 00001,drive,1
+3,roate 10002;piums 01000;aband 01000,bribe,1
+3,roate 10002;piums 01000;aband 01001,bride,1
+3,roate 10002;piums 01000;aband 01020,brine,1
+2,roate 10002;piums 01001,shire,1
+2,roate 10002;piums 01020,crime,2
+3,roate 10002;piums 01020;crime 02222,grime,1
+3,roate 10002;piums 01020;crime 22222,crime,1
+2,roate 10002;piums 01100,urine,1
+2,roate 10002;piums 02000,dirge,2
+3,roate 10002;piums 02000;dirge 02102,fibre,1
+3,roate 10002;piums 02000;dirge 22222,dirge,1
+2,roate 10002;piums 10000,crepe,1
+2,roate 10002;piums 10001,spree,1
+2,roate 10002;piums 11000,gripe,1
+2,roate 10002;piums 11001,spire,1
+2,roate 10002;piums 20100,puree,2
+3,roate 10002;piums 20100;puree 22202,purge,1
+3,roate 10002;piums 20100;puree 22222,puree,1
+2,roate 10002;piums 20101,purse,1
+2,roate 10002;piums 20200,prude,2
+3,roate 10002;piums 20200;prude 22202,prune,1
+3,roate 10002;piums 20200;prude 22222,prude,1
+2,roate 10002;piums 21000,ached,3
+3,roate 10002;piums 21000;ached 00010,prize,1
+3,roate 10002;piums 21000;ached 00011,pride,1
+3,roate 10002;piums 21000;ached 01010,price,1
+2,roate 10002;piums 21020,prime,1
+1,roate 10010,scuft,29
+2,roate 10010;scuft 00001,third,2
+3,roate 10010;scuft 00001;third 20220,twirl,1
+3,roate 10010;scuft 00001;third 22222,third,1
+2,roate 10010;scuft 00002,print,1
+2,roate 10010;scuft 00012,flirt,1
+2,roate 10010;scuft 00022,drift,1
+2,roate 10010;scuft 00101,thrum,1
+2,roate 10010;scuft 00102,burnt,1
+2,roate 10010;scuft 00201,abysm,3
+3,roate 10010;scuft 00201;abysm 00000,trunk,1
+3,roate 10010;scuft 00201;abysm 00001,trump,1
+3,roate 10010;scuft 00201;abysm 00100,truly,1
+2,roate 10010;scuft 00202,blurt,3
+3,roate 10010;scuft 00202;blurt 00212,grunt,1
+3,roate 10010;scuft 00202;blurt 20212,brunt,1
+3,roate 10010;scuft 00202;blurt 22222,blurt,1
+2,roate 10010;scuft 00212,fruit,1
+2,roate 10010;scuft 01001,trick,1
+2,roate 10010;scuft 01002,crypt,1
+2,roate 10010;scuft 01201,truck,1
+2,roate 10010;scuft 10002,tryst,2
+3,roate 10010;scuft 10002;tryst 02022,wrist,1
+3,roate 10010;scuft 10002;tryst 22222,tryst,1
+2,roate 10010;scuft 10012,first,1
+2,roate 10010;scuft 10102,burst,1
+2,roate 10010;scuft 10201,truss,1
+2,roate 10010;scuft 10202,trust,1
+2,roate 10010;scuft 11202,crust,1
+2,roate 10010;scuft 20001,strip,1
+2,roate 10010;scuft 20002,shirt,2
+3,roate 10010;scuft 20002;shirt 20222,skirt,1
+3,roate 10010;scuft 20002;shirt 22222,shirt,1
+2,roate 10010;scuft 20102,strut,1
+2,roate 10010;scuft 20202,spurt,1
+1,roate 10011,sneer,29
+2,roate 10011;sneer 00021,threw,2
+3,roate 10011;sneer 00021;threw 20120,tried,1
+3,roate 10011;sneer 00021;threw 22222,threw,1
+2,roate 10011;sneer 00022,blume,5
+3,roate 10011;sneer 00022;blume 00001,tiger,1
+3,roate 10011;sneer 00022;blume 00011,timer,1
+3,roate 10011;sneer 00022;blume 00101,utter,1
+3,roate 10011;sneer 00022;blume 00201,truer,1
+3,roate 10011;sneer 00022;blume 10101,tuber,1
+2,roate 10011;sneer 00101,erupt,4
+3,roate 10011;sneer 00101;erupt 11001,threw,1
+3,roate 10011;sneer 00101;erupt 11002,merit,1
+3,roate 10011;sneer 00101;erupt 12001,tried,1
+3,roate 10011;sneer 00101;erupt 22222,erupt,1
+2,roate 10011;sneer 00121,beret,2
+3,roate 10011;sneer 00121;beret 01222,egret,1
+3,roate 10011;sneer 00121;beret 22222,beret,1
+2,roate 10011;sneer 00122,deter,3
+3,roate 10011;sneer 00122;deter 01122,ether,1
+3,roate 10011;sneer 00122;deter 02222,meter,1
+3,roate 10011;sneer 00122;deter 22222,deter,1
+2,roate 10011;sneer 00201,crept,1
+2,roate 10011;sneer 00202,their,1
+2,roate 10011;sneer 00211,erect,2
+3,roate 10011;sneer 00211;erect 21202,exert,1
+3,roate 10011;sneer 00211;erect 22222,erect,1
+2,roate 10011;sneer 00221,greet,1
+2,roate 10011;sneer 01201,trend,1
+2,roate 10011;sneer 02022,inter,1
+2,roate 10011;sneer 02101,entry,1
+2,roate 10011;sneer 02122,enter,1
+2,roate 10011;sneer 02201,inert,1
+2,roate 10011;sneer 10122,ester,1
+2,roate 10011;sneer 10201,crest,2
+3,roate 10011;sneer 10201;crest 02222,wrest,1
+3,roate 10011;sneer 10201;crest 22222,crest,1
+2,roate 10011;sneer 20222,steer,1
+2,roate 10011;sneer 21201,stern,1
+1,roate 10012,bices,7
+2,roate 10012;bices 00010,there,1
+2,roate 10012;bices 00011,terse,1
+2,roate 10012;bices 00020,three,1
+2,roate 10012;bices 00110,truce,1
+2,roate 10012;bices 01010,tripe,1
+2,roate 10012;bices 01110,trice,1
+2,roate 10012;bices 11010,tribe,1
+1,roate 10020,beigy,6
+2,roate 10020;beigy 00000,truth,1
+2,roate 10020;beigy 00100,mirth,1
+2,roate 10020;beigy 00102,dirty,1
+2,roate 10020;beigy 00110,girth,1
+2,roate 10020;beigy 00200,fritz,1
+2,roate 10020;beigy 20100,birth,1
+1,roate 10021,berth,1
+1,roate 10022,trite,3
+2,roate 10022;trite 02022,brute,1
+2,roate 10022;trite 02222,write,1
+2,roate 10022;trite 22222,trite,1
+1,roate 10100,carrs,35
+2,roate 10100;carrs 01020,angry,2
+3,roate 10100;carrs 01020;angry 10020,umbra,1
+3,roate 10100;carrs 01020;angry 22222,angry,1
+2,roate 10100;carrs 01100,lunar,5
+3,roate 10100;carrs 01100;lunar 00111,angry,1
+3,roate 10100;carrs 01100;lunar 01011,umbra,1
+3,roate 10100;carrs 01100;lunar 01121,urban,1
+3,roate 10100;carrs 01100;lunar 02012,augur,1
+3,roate 10100;carrs 01100;lunar 22222,lunar,1
+2,roate 10100;carrs 01101,sugar,1
+2,roate 10100;carrs 01110,briar,2
+3,roate 10100;carrs 01110;briar 02222,friar,1
+3,roate 10100;carrs 01110;briar 22222,briar,1
+2,roate 10100;carrs 01200,mural,2
+3,roate 10100;carrs 01200;mural 00222,viral,1
+3,roate 10100;carrs 01200;mural 22222,mural,1
+2,roate 10100;carrs 01201,spray,1
+2,roate 10100;carrs 01210,array,1
+2,roate 10100;carrs 02020,aahed,3
+3,roate 10100;carrs 02020;aahed 02000,fairy,1
+3,roate 10100;carrs 02020;aahed 02001,dairy,1
+3,roate 10100;carrs 02020;aahed 02100,hairy,1
+2,roate 10100;carrs 02100,adhan,4
+3,roate 10100;carrs 02100;adhan 10000,fairy,1
+3,roate 10100;carrs 02100;adhan 10100,hairy,1
+3,roate 10100;carrs 02100;adhan 11000,dairy,1
+3,roate 10100;carrs 02100;adhan 11001,nadir,1
+2,roate 10100;carrs 02200,parka,5
+3,roate 10100;carrs 02200;parka 02200,hardy,1
+3,roate 10100;carrs 02200;parka 02202,larva,1
+3,roate 10100;carrs 02200;parka 02212,karma,1
+3,roate 10100;carrs 02200;parka 12200,harpy,1
+3,roate 10100;carrs 02200;parka 22222,parka,1
+2,roate 10100;carrs 02201,harsh,2
+3,roate 10100;carrs 02201;harsh 02222,marsh,1
+3,roate 10100;carrs 02201;harsh 22222,harsh,1
+2,roate 10100;carrs 02220,abamp,3
+3,roate 10100;carrs 02220;abamp 10000,harry,1
+3,roate 10100;carrs 02220;abamp 10001,parry,1
+3,roate 10100;carrs 02220;abamp 10010,marry,1
+2,roate 10100;carrs 11100,vicar,1
+2,roate 10100;carrs 11200,acrid,1
+2,roate 10100;carrs 11201,scram,2
+3,roate 10100;carrs 11201;scram 22220,scrap,1
+3,roate 10100;carrs 11201;scram 22222,scram,1
+2,roate 10100;carrs 12200,march,1
+2,roate 10100;carrs 21100,cigar,1
+2,roate 10100;carrs 21200,circa,1
+2,roate 10100;carrs 22020,cairn,1
+2,roate 10100;carrs 22220,carry,1
+1,roate 10101,balms,42
+2,roate 10101;balms 01000,cedar,8
+3,roate 10101;balms 01000;cedar 01011,arena,1
+3,roate 10101;balms 01000;cedar 01012,anger,1
+3,roate 10101;balms 01000;cedar 01021,freak,2
+4,roate 10101;balms 01000;cedar 01021;freak 02222,wreak,1
+4,roate 10101;balms 01000;cedar 01021;freak 22222,freak,1
+3,roate 10101;balms 01000;cedar 01121,dread,1
+3,roate 10101;balms 01000;cedar 01212,aider,1
+3,roate 10101;balms 01000;cedar 21021,creak,1
+3,roate 10101;balms 01000;cedar 22222,cedar,1
+2,roate 10101;balms 01001,aheap,3
+3,roate 10101;balms 01001;aheap 00220,swear,1
+3,roate 10101;balms 01001;aheap 00221,spear,1
+3,roate 10101;balms 01001;aheap 02220,shear,1
+2,roate 10101;balms 01010,cream,2
+3,roate 10101;balms 01010;cream 02222,dream,1
+3,roate 10101;balms 01010;cream 22222,cream,1
+2,roate 10101;balms 01011,smear,1
+2,roate 10101;balms 01100,clear,2
+3,roate 10101;balms 01100;clear 01121,feral,1
+3,roate 10101;balms 01100;clear 22222,clear,1
+2,roate 10101;balms 02000,gappy,10
+3,roate 10101;balms 02000;gappy 02000,wafer,2
+4,roate 10101;balms 02000;gappy 02000;wafer 22022,waver,1
+4,roate 10101;balms 02000;gappy 02000;wafer 22222,wafer,1
+3,roate 10101;balms 02000;gappy 02100,parer,1
+3,roate 10101;balms 02000;gappy 02101,payer,1
+3,roate 10101;balms 02000;gappy 02200,caper,1
+3,roate 10101;balms 02000;gappy 02210,paper,1
+3,roate 10101;balms 02000;gappy 12000,eager,2
+4,roate 10101;balms 02000;gappy 12000;eager 02222,wager,1
+4,roate 10101;balms 02000;gappy 12000;eager 22222,eager,1
+3,roate 10101;balms 02000;gappy 22000,gazer,1
+3,roate 10101;balms 02000;gappy 22001,gayer,1
+2,roate 10101;balms 02001,safer,2
+3,roate 10101;balms 02001;safer 22022,saner,1
+3,roate 10101;balms 02001;safer 22222,safer,1
+2,roate 10101;balms 02010,gamer,3
+3,roate 10101;balms 02010;gamer 02121,harem,1
+3,roate 10101;balms 02010;gamer 02122,maker,1
+3,roate 10101;balms 02010;gamer 22222,gamer,1
+2,roate 10101;balms 02100,early,3
+3,roate 10101;balms 02100;early 12110,lager,1
+3,roate 10101;balms 02100;early 12111,layer,1
+3,roate 10101;balms 02100;early 22222,early,1
+2,roate 10101;balms 02200,paler,1
+2,roate 10101;balms 11000,debar,2
+3,roate 10101;balms 11000;debar 02211,zebra,1
+3,roate 10101;balms 11000;debar 22222,debar,1
+2,roate 10101;balms 11010,amber,1
+2,roate 10101;balms 21000,bread,2
+3,roate 10101;balms 21000;bread 22220,break,1
+3,roate 10101;balms 21000;bread 22222,bread,1
+2,roate 10101;balms 22000,baker,1
+2,roate 10101;balms 22200,baler,1
+1,roate 10102,aglus,10
+2,roate 10102;aglus 10000,carve,2
+3,roate 10102;aglus 10000;carve 12202,farce,1
+3,roate 10102;aglus 10000;carve 22222,carve,1
+2,roate 10102;aglus 10001,parse,1
+2,roate 10102;aglus 11000,barge,1
+2,roate 10102;aglus 11100,large,1
+2,roate 10102;aglus 20000,afire,1
+2,roate 10102;aglus 20001,arise,1
+2,roate 10102;aglus 20010,azure,1
+2,roate 10102;aglus 21020,argue,1
+2,roate 10102;aglus 22000,agree,1
+1,roate 10110,spial,12
+2,roate 10110;spial 00010,tardy,1
+2,roate 10110;spial 00011,ultra,1
+2,roate 10110;spial 00020,carat,1
+2,roate 10110;spial 00021,altar,1
+2,roate 10110;spial 00220,triad,1
+2,roate 10110;spial 00222,trial,1
+2,roate 10110;spial 01110,tapir,1
+2,roate 10110;spial 10010,artsy,1
+2,roate 10110;spial 20010,satyr,1
+2,roate 10110;spial 20020,straw,2
+3,roate 10110;spial 20020;straw 22220,stray,1
+3,roate 10110;spial 20020;straw 22222,straw,1
+2,roate 10110;spial 21020,strap,1
+1,roate 10111,artel,17
+2,roate 10111;artel 11110,terra,1
+2,roate 10111;artel 11120,abamp,3
+3,roate 10111;artel 11120;abamp 10000,taker,1
+3,roate 10111;artel 11120;abamp 10001,taper,1
+3,roate 10111;artel 11120;abamp 10010,tamer,1
+2,roate 10111;artel 11210,extra,1
+2,roate 10111;artel 11220,beech,4
+3,roate 10111;artel 11220;beech 01000,water,1
+3,roate 10111;artel 11220;beech 01001,hater,1
+3,roate 10111;artel 11220;beech 01010,cater,1
+3,roate 10111;artel 11220;beech 01100,eater,1
+2,roate 10111;artel 11221,later,1
+2,roate 10111;artel 12110,great,3
+3,roate 10111;artel 12110;great 02221,tread,1
+3,roate 10111;artel 12110;great 02222,treat,1
+3,roate 10111;artel 12110;great 22222,great,1
+2,roate 10111;artel 21110,avert,1
+2,roate 10111;artel 21111,alert,1
+2,roate 10111;artel 21220,after,1
+2,roate 10111;artel 21221,alter,1
+1,roate 10120,party,2
+2,roate 10120;party 02222,warty,1
+2,roate 10120;party 22222,party,1
+1,roate 10121,earth,1
+1,roate 10200,dicks,51
+2,roate 10200;dicks 00000,prawn,7
+3,roate 10200;dicks 00000;prawn 01200,alarm,1
+3,roate 10200;dicks 00000;prawn 01210,wharf,1
+3,roate 10200;dicks 00000;prawn 02200,gravy,1
+3,roate 10200;dicks 00000;prawn 02220,brawl,1
+3,roate 10200;dicks 00000;prawn 02222,brawn,1
+3,roate 10200;dicks 00000;prawn 12200,graph,1
+3,roate 10200;dicks 00000;prawn 22222,prawn,1
+2,roate 10200;dicks 00001,ahing,5
+3,roate 10200;dicks 00001;ahing 10000,swarm,1
+3,roate 10200;dicks 00001;ahing 10001,grasp,1
+3,roate 10200;dicks 00001;ahing 10010,snarl,1
+3,roate 10200;dicks 00001;ahing 11000,brash,1
+3,roate 10200;dicks 00001;ahing 12000,sharp,1
+2,roate 10200;dicks 00002,brass,2
+3,roate 10200;dicks 00002;brass 02222,grass,1
+3,roate 10200;dicks 00002;brass 22222,brass,1
+2,roate 10200;dicks 00010,frank,3
+3,roate 10200;dicks 00010;frank 01202,quark,1
+3,roate 10200;dicks 00010;frank 02222,prank,1
+3,roate 10200;dicks 00010;frank 22222,frank,1
+2,roate 10200;dicks 00011,shark,2
+3,roate 10200;dicks 00011;shark 20222,spark,1
+3,roate 10200;dicks 00011;shark 22222,shark,1
+2,roate 10200;dicks 00100,abysm,4
+3,roate 10200;dicks 00100;abysm 10000,crawl,1
+3,roate 10200;dicks 00100;abysm 10001,cramp,1
+3,roate 10200;dicks 00100;abysm 10002,charm,1
+3,roate 10200;dicks 00100;abysm 10100,crazy,1
+2,roate 10200;dicks 00101,scarf,3
+3,roate 10200;dicks 00101;scarf 11210,crash,1
+3,roate 10200;dicks 00101;scarf 22220,scary,1
+3,roate 10200;dicks 00101;scarf 22222,scarf,1
+2,roate 10200;dicks 00102,crass,1
+2,roate 10200;dicks 00110,crack,3
+3,roate 10200;dicks 00110;crack 02222,wrack,1
+3,roate 10200;dicks 00110;crack 22202,crank,1
+3,roate 10200;dicks 00110;crack 22222,crack,1
+2,roate 10200;dicks 01000,grail,5
+3,roate 10200;dicks 01000;grail 01221,flair,1
+3,roate 10200;dicks 01000;grail 02220,brain,1
+3,roate 10200;dicks 01000;grail 02222,frail,1
+3,roate 10200;dicks 01000;grail 22220,grain,1
+3,roate 10200;dicks 01000;grail 22222,grail,1
+2,roate 10200;dicks 01100,chair,1
+2,roate 10200;dicks 10000,grand,5
+3,roate 10200;dicks 10000;grand 01202,award,1
+3,roate 10200;dicks 10000;grand 02202,fraud,1
+3,roate 10200;dicks 10000;grand 02222,brand,1
+3,roate 10200;dicks 10000;grand 21202,guard,1
+3,roate 10200;dicks 10000;grand 22222,grand,1
+2,roate 10200;dicks 10001,shard,1
+2,roate 10200;dicks 10100,chard,1
+2,roate 10200;dicks 11000,braid,1
+2,roate 10200;dicks 20000,drawl,4
+3,roate 10200;dicks 20000;drawl 21210,dwarf,1
+3,roate 10200;dicks 20000;drawl 22200,drama,1
+3,roate 10200;dicks 20000;drawl 22220,drawn,1
+3,roate 10200;dicks 20000;drawl 22222,drawl,1
+2,roate 10200;dicks 20010,drank,1
+2,roate 10200;dicks 21000,drain,1
+2,roate 10200;dicks 22000,diary,1
+1,roate 10201,bandy,6
+2,roate 10201;bandy 01000,pearl,1
+2,roate 10201;bandy 01002,weary,1
+2,roate 10201;bandy 01010,heard,1
+2,roate 10201;bandy 01100,learn,1
+2,roate 10201;bandy 01101,yearn,1
+2,roate 10201;bandy 21010,beard,1
+1,roate 10202,crags,23
+2,roate 10202;crags 01200,blare,3
+3,roate 10202;crags 01200;blare 00222,aware,1
+3,roate 10202;crags 01200;blare 02222,flare,1
+3,roate 10202;crags 01200;blare 22222,blare,1
+2,roate 10202;crags 01201,adhan,3
+3,roate 10202;crags 01201;adhan 10000,spare,1
+3,roate 10202;crags 01201;adhan 10001,snare,1
+3,roate 10202;crags 01201;adhan 10100,share,1
+2,roate 10202;crags 01210,glare,1
+2,roate 10202;crags 02200,baked,5
+3,roate 10202;crags 02200;baked 01010,frame,1
+3,roate 10202;crags 02200;baked 01011,drape,1
+3,roate 10202;crags 02200;baked 01111,drake,1
+3,roate 10202;crags 02200;baked 21010,brave,1
+3,roate 10202;crags 02200;baked 21110,brake,1
+2,roate 10202;crags 02201,erase,1
+2,roate 10202;crags 02210,paved,4
+3,roate 10202;crags 02210;paved 01010,graze,1
+3,roate 10202;crags 02210;paved 01011,grade,1
+3,roate 10202;crags 02210;paved 01110,grave,1
+3,roate 10202;crags 02210;paved 11010,grape,1
+2,roate 10202;crags 11201,scare,1
+2,roate 10202;crags 12200,brace,1
+2,roate 10202;crags 12210,grace,1
+2,roate 10202;crags 22200,anvil,3
+3,roate 10202;crags 22200;anvil 10000,craze,1
+3,roate 10202;crags 22200;anvil 10100,crave,1
+3,roate 10202;crags 22200;anvil 11000,crane,1
+1,roate 10210,crims,20
+2,roate 10210;crims 01000,apart,2
+3,roate 10210;crims 01000;apart 00222,quart,1
+3,roate 10210;crims 01000;apart 22222,apart,1
+2,roate 10210;crims 01001,stark,2
+3,roate 10210;crims 01001;stark 22220,start,1
+3,roate 10210;crims 01001;stark 22222,stark,1
+2,roate 10210;crims 01011,smart,1
+2,roate 10210;crims 01100,tiara,1
+2,roate 10210;crims 01101,stair,1
+2,roate 10210;crims 02000,draft,4
+3,roate 10210;crims 02000;draft 02201,trawl,1
+3,roate 10210;crims 02000;draft 02202,grant,1
+3,roate 10210;crims 02000;draft 02222,graft,1
+3,roate 10210;crims 02000;draft 22222,draft,1
+2,roate 10210;crims 02001,trash,1
+2,roate 10210;crims 02020,tramp,1
+2,roate 10210;crims 02100,ablet,3
+3,roate 10210;crims 02100;ablet 10001,train,1
+3,roate 10210;crims 02100;ablet 10002,trait,1
+3,roate 10210;crims 02100;ablet 10101,trail,1
+2,roate 10210;crims 12000,track,2
+3,roate 10210;crims 12000;track 22220,tract,1
+3,roate 10210;crims 12000;track 22222,track,1
+2,roate 10210;crims 21000,chart,1
+2,roate 10210;crims 22000,craft,1
+1,roate 10211,heart,2
+2,roate 10211;heart 02221,teary,1
+2,roate 10211;heart 22222,heart,1
+1,roate 10212,trace,3
+2,roate 10212;trace 11202,stare,1
+2,roate 10212;trace 22202,trade,1
+2,roate 10212;trace 22222,trace,1
+1,roate 10220,wrath,1
+1,roate 10222,abaci,3
+2,roate 10222;abaci 00200,grate,1
+2,roate 10222;abaci 00201,irate,1
+2,roate 10222;abaci 00210,crate,1
+1,roate 11000,grind,57
+2,roate 11000;grind 01000,afros,7
+3,roate 11000;grind 01000;afros 00110,occur,1
+3,roate 11000;grind 01000;afros 00111,scour,1
+3,roate 11000;grind 01000;afros 00120,humor,1
+3,roate 11000;grind 01000;afros 00220,juror,1
+3,roate 11000;grind 01000;afros 01110,flour,1
+3,roate 11000;grind 01000;afros 01120,floor,1
+3,roate 11000;grind 01000;afros 01220,furor,1
+2,roate 11000;grind 01001,hydro,1
+2,roate 11000;grind 01002,abacs,3
+3,roate 11000;grind 01002;abacs 00000,fjord,1
+3,roate 11000;grind 01002;abacs 00001,sword,1
+3,roate 11000;grind 01002;abacs 00010,chord,1
+2,roate 11000;grind 01010,achar,3
+3,roate 11000;grind 01010;achar 00001,sworn,1
+3,roate 11000;grind 01010;achar 00101,shorn,1
+3,roate 11000;grind 01010;achar 02001,scorn,1
+2,roate 11000;grind 01100,choir,5
+3,roate 11000;grind 01100;choir 00112,visor,1
+3,roate 11000;grind 01100;choir 00211,ivory,1
+3,roate 11000;grind 01100;choir 10111,micro,1
+3,roate 11000;grind 01100;choir 20121,curio,1
+3,roate 11000;grind 01100;choir 22222,choir,1
+2,roate 11000;grind 01110,minor,1
+2,roate 11000;grind 02000,capos,10
+3,roate 11000;grind 02000;capos 00020,brook,2
+4,roate 11000;grind 02000;capos 00020;brook 22220,broom,1
+4,roate 11000;grind 02000;capos 00020;brook 22222,brook,1
+3,roate 11000;grind 02000;capos 00110,prowl,2
+4,roate 11000;grind 02000;capos 00110;prowl 22200,proxy,1
+4,roate 11000;grind 02000;capos 00110;prowl 22222,prowl,1
+3,roate 11000;grind 02000;capos 00120,proof,1
+3,roate 11000;grind 02000;capos 10010,frock,1
+3,roate 11000;grind 02000;capos 20010,crock,1
+3,roate 11000;grind 02000;capos 20012,cross,1
+3,roate 11000;grind 02000;capos 20020,crook,1
+3,roate 11000;grind 02000;capos 20110,croup,1
+2,roate 11000;grind 02001,drool,4
+3,roate 11000;grind 02001;drool 22200,dross,1
+3,roate 11000;grind 02001;drool 22202,droll,1
+3,roate 11000;grind 02001;drool 22220,droop,1
+3,roate 11000;grind 02001;drool 22222,drool,1
+2,roate 11000;grind 02002,abaca,3
+3,roate 11000;grind 02002;abaca 00000,proud,1
+3,roate 11000;grind 02002;abaca 00010,crowd,1
+3,roate 11000;grind 02002;abaca 01000,brood,1
+2,roate 11000;grind 02010,abaca,3
+3,roate 11000;grind 02010;abaca 00000,frown,1
+3,roate 11000;grind 02010;abaca 00010,crown,1
+3,roate 11000;grind 02010;abaca 01000,brown,1
+2,roate 11000;grind 02011,drown,1
+2,roate 11000;grind 02020,crony,1
+2,roate 11000;grind 02022,frond,1
+2,roate 11000;grind 02100,broil,1
+2,roate 11000;grind 02120,irony,1
+2,roate 11000;grind 02200,primo,2
+3,roate 11000;grind 02200;primo 22201,prior,1
+3,roate 11000;grind 02200;primo 22222,primo,1
+2,roate 11000;grind 11100,vigor,1
+2,roate 11000;grind 12020,prong,2
+3,roate 11000;grind 12020;prong 02222,wrong,1
+3,roate 11000;grind 12020;prong 22222,prong,1
+2,roate 11000;grind 21000,glory,1
+2,roate 11000;grind 22000,adsum,4
+3,roate 11000;grind 22000;adsum 00000,growl,1
+3,roate 11000;grind 22000;adsum 00002,groom,1
+3,roate 11000;grind 22000;adsum 00020,group,1
+3,roate 11000;grind 22000;adsum 00100,gross,1
+2,roate 11000;grind 22010,grown,1
+2,roate 11000;grind 22110,groin,1
+1,roate 11001,urned,10
+2,roate 11001;urned 01010,verso,1
+2,roate 11001;urned 01011,decor,1
+2,roate 11001;urned 01020,offer,1
+2,roate 11001;urned 01021,odder,2
+3,roate 11001;urned 01021;odder 20222,older,1
+3,roate 11001;urned 01021;odder 22222,odder,1
+2,roate 11001;urned 01110,heron,1
+2,roate 11001;urned 01220,owner,1
+2,roate 11001;urned 02010,error,1
+2,roate 11001;urned 02011,credo,1
+2,roate 11001;urned 02021,order,1
+1,roate 11002,phons,19
+2,roate 11002;phons 00100,ombre,1
+2,roate 11002;phons 00200,bovid,5
+3,roate 11002;phons 00200;bovid 01000,froze,1
+3,roate 11002;phons 00200;bovid 01001,erode,1
+3,roate 11002;phons 00200;bovid 01100,grove,1
+3,roate 11002;phons 00200;bovid 01101,drove,1
+3,roate 11002;phons 00200;bovid 21000,broke,1
+2,roate 11002;phons 00201,score,2
+3,roate 11002;phons 00201;score 20222,swore,1
+3,roate 11002;phons 00201;score 22222,score,1
+2,roate 11002;phons 00211,snore,1
+2,roate 11002;phons 00220,crone,2
+3,roate 11002;phons 00220;crone 02222,drone,1
+3,roate 11002;phons 00220;crone 22222,crone,1
+2,roate 11002;phons 02200,chore,1
+2,roate 11002;phons 02201,shore,1
+2,roate 11002;phons 10200,grope,1
+2,roate 11002;phons 10201,spore,1
+2,roate 11002;phons 20200,probe,2
+3,roate 11002;phons 20200;probe 22202,prove,1
+3,roate 11002;phons 20200;probe 22222,probe,1
+2,roate 11002;phons 20201,prose,1
+2,roate 11002;phons 20220,prone,1
+1,roate 11010,shunt,21
+2,roate 11010;shunt 00001,troll,2
+3,roate 11010;shunt 00001;troll 22200,troop,1
+3,roate 11010;shunt 00001;troll 22222,troll,1
+2,roate 11010;shunt 00002,droit,2
+3,roate 11010;shunt 00002;droit 02122,orbit,1
+3,roate 11010;shunt 00002;droit 22222,droit,1
+2,roate 11010;shunt 00011,intro,1
+2,roate 11010;shunt 00022,front,1
+2,roate 11010;shunt 00101,tumor,3
+3,roate 11010;shunt 00101;tumor 22011,turbo,1
+3,roate 11010;shunt 00101;tumor 22022,tutor,1
+3,roate 11010;shunt 00101;tumor 22222,tumor,1
+2,roate 11010;shunt 00102,grout,2
+3,roate 11010;shunt 00102;grout 02222,trout,1
+3,roate 11010;shunt 00102;grout 22222,grout,1
+2,roate 11010;shunt 02001,throb,2
+3,roate 11010;shunt 02001;throb 22220,throw,1
+3,roate 11010;shunt 02001;throb 22222,throb,1
+2,roate 11010;shunt 02011,thorn,1
+2,roate 11010;shunt 10002,frost,1
+2,roate 11010;shunt 20001,abysm,3
+3,roate 11010;shunt 20001;abysm 00010,stork,1
+3,roate 11010;shunt 20001;abysm 00012,storm,1
+3,roate 11010;shunt 20001;abysm 00110,story,1
+2,roate 11010;shunt 20002,sport,1
+2,roate 11010;shunt 20012,snort,1
+2,roate 11010;shunt 22002,short,1
+1,roate 11011,other,6
+2,roate 11011;other 11011,metro,1
+2,roate 11011;other 11012,tenor,1
+2,roate 11011;other 21011,overt,1
+2,roate 11011;other 21022,outer,1
+2,roate 11011;other 22022,otter,1
+2,roate 11011;other 22222,other,1
+1,roate 11012,trope,3
+2,roate 11012;trope 11202,store,1
+2,roate 11012;trope 22202,trove,1
+2,roate 11012;trope 22222,trope,1
+1,roate 11020,broth,2
+2,roate 11020;broth 02222,froth,1
+2,roate 11020;broth 22222,broth,1
+1,roate 11022,wrote,1
+1,roate 11100,macon,28
+2,roate 11100;macon 01010,agora,3
+3,roate 11100;macon 01010;agora 00222,flora,1
+3,roate 11100;macon 01010;agora 10210,broad,1
+3,roate 11100;macon 01010;agora 22222,agora,1
+2,roate 11100;macon 01012,adorn,3
+3,roate 11100;macon 01012;adorn 10112,organ,1
+3,roate 11100;macon 01012;adorn 10212,groan,1
+3,roate 11100;macon 01012;adorn 22222,adorn,1
+2,roate 11100;macon 01020,abhor,4
+3,roate 11100;macon 01020;abhor 20021,arrow,1
+3,roate 11100;macon 01020;abhor 20022,ardor,1
+3,roate 11100;macon 01020;abhor 21022,arbor,1
+3,roate 11100;macon 01020;abhor 22222,abhor,1
+2,roate 11100;macon 01022,apron,2
+3,roate 11100;macon 01022;apron 20122,arson,1
+3,roate 11100;macon 01022;apron 22222,apron,1
+2,roate 11100;macon 01110,croak,1
+2,roate 11100;macon 01112,acorn,1
+2,roate 11100;macon 02020,blips,5
+3,roate 11100;macon 02020;blips 00000,favor,1
+3,roate 11100;macon 02020;blips 00001,savor,1
+3,roate 11100;macon 02020;blips 00010,vapor,1
+3,roate 11100;macon 02020;blips 01000,valor,1
+3,roate 11100;macon 02020;blips 11000,labor,1
+2,roate 11100;macon 02022,baron,1
+2,roate 11100;macon 02110,cargo,1
+2,roate 11100;macon 02120,carol,1
+2,roate 11100;macon 11010,aroma,1
+2,roate 11100;macon 11020,armor,1
+2,roate 11100;macon 22020,major,2
+3,roate 11100;macon 22020;major 22022,mayor,1
+3,roate 11100;macon 22020;major 22222,major,1
+2,roate 11100;macon 22021,manor,1
+2,roate 11100;macon 22210,macro,1
+1,roate 11101,opera,1
+1,roate 11102,adore,2
+2,roate 11102;adore 20212,arose,1
+2,roate 11102;adore 22222,adore,1
+1,roate 11110,abort,3
+2,roate 11110;abort 10112,tarot,1
+2,roate 11110;abort 20111,actor,1
+2,roate 11110;abort 22222,abort,1
+1,roate 11200,bravo,2
+2,roate 11200;bravo 01211,ovary,1
+2,roate 11200;bravo 22222,bravo,1
+1,roate 12000,cundy,18
+2,roate 12000;cundy 00000,forgo,2
+3,roate 12000;cundy 00000;forgo 02200,morph,1
+3,roate 12000;cundy 00000;forgo 22222,forgo,1
+2,roate 12000;cundy 00002,ables,3
+3,roate 12000;cundy 00002;ables 00000,worry,1
+3,roate 12000;cundy 00002;ables 00001,sorry,1
+3,roate 12000;cundy 00002;ables 00100,lorry,1
+2,roate 12000;cundy 00010,world,1
+2,roate 12000;cundy 00012,dowry,1
+2,roate 12000;cundy 00022,wordy,1
+2,roate 12000;cundy 00100,moron,1
+2,roate 12000;cundy 00102,horny,1
+2,roate 12000;cundy 00200,honor,1
+2,roate 12000;cundy 00210,donor,1
+2,roate 12000;cundy 01000,forum,1
+2,roate 12000;cundy 01010,gourd,1
+2,roate 12000;cundy 01100,mourn,1
+2,roate 12000;cundy 10000,porch,1
+2,roate 12000;cundy 20000,color,1
+2,roate 12000;cundy 20102,corny,1
+1,roate 12001,mawks,20
+2,roate 12001;mawks 00000,chevy,7
+3,roate 12001;mawks 00000;chevy 00100,boxer,2
+4,roate 12001;mawks 00000;chevy 00100;boxer 02022,goner,1
+4,roate 12001;mawks 00000;chevy 00100;boxer 22222,boxer,1
+3,roate 12001;mawks 00000;chevy 00101,foyer,1
+3,roate 12001;mawks 00000;chevy 00110,lover,1
+3,roate 12001;mawks 00000;chevy 01110,hover,1
+3,roate 12001;mawks 00000;chevy 20100,corer,1
+3,roate 12001;mawks 00000;chevy 20110,cover,1
+2,roate 12001;mawks 00001,loser,3
+3,roate 12001;mawks 00001;loser 02122,sober,1
+3,roate 12001;mawks 00001;loser 02222,poser,1
+3,roate 12001;mawks 00001;loser 22222,loser,1
+2,roate 12001;mawks 00010,joker,2
+3,roate 12001;mawks 00010;joker 02222,poker,1
+3,roate 12001;mawks 00010;joker 22222,joker,1
+2,roate 12001;mawks 00100,wooer,1
+2,roate 12001;mawks 00200,acold,3
+3,roate 12001;mawks 00200;acold 00100,power,1
+3,roate 12001;mawks 00200;acold 00110,lower,1
+3,roate 12001;mawks 00200;acold 01100,cower,1
+2,roate 12001;mawks 00201,sower,1
+2,roate 12001;mawks 10000,homer,1
+2,roate 12001;mawks 20000,mover,1
+2,roate 12001;mawks 20200,mower,1
+1,roate 12002,gnash,7
+2,roate 12002;gnash 00000,force,1
+2,roate 12002;gnash 00001,horde,1
+2,roate 12002;gnash 00020,worse,1
+2,roate 12002;gnash 00021,horse,1
+2,roate 12002;gnash 01000,borne,1
+2,roate 12002;gnash 10000,forge,1
+2,roate 12002;gnash 20000,gorge,1
+1,roate 12010,torso,6
+2,roate 12010;torso 12100,court,1
+2,roate 12010;torso 12101,motor,1
+2,roate 12010;torso 12220,worst,1
+2,roate 12010;torso 22200,torch,1
+2,roate 12010;torso 22210,torus,1
+2,roate 12010;torso 22222,torso,1
+1,roate 12011,tower,2
+2,roate 12011;tower 12022,voter,1
+2,roate 12011;tower 22222,tower,1
+1,roate 12020,downy,4
+2,roate 12020;downy 02000,forth,1
+2,roate 12020;downy 02002,forty,1
+2,roate 12020;downy 02010,north,1
+2,roate 12020;downy 02100,worth,1
+1,roate 12022,forte,1
+1,roate 12100,balms,9
+2,roate 12100;balms 01000,foray,1
+2,roate 12100;balms 01001,sonar,1
+2,roate 12100;balms 01100,coral,1
+2,roate 12100;balms 01110,moral,1
+2,roate 12100;balms 01200,polar,1
+2,roate 12100;balms 01201,solar,1
+2,roate 12100;balms 01210,molar,1
+2,roate 12100;balms 11000,cobra,1
+2,roate 12100;balms 21000,borax,1
+1,roate 12120,aorta,1
+1,roate 12200,board,2
+2,roate 12200;board 02222,hoard,1
+2,roate 12200;board 22222,board,1
+1,roate 20000,rigid,4
+2,roate 20000;rigid 20001,ruddy,1
+2,roate 20000;rigid 20200,rugby,1
+2,roate 20000;rigid 22000,risky,1
+2,roate 20000;rigid 22222,rigid,1
+1,roate 20001,lupin,21
+2,roate 20001;lupin 00000,reedy,2
+3,roate 20001;lupin 00000;reedy 22100,refer,1
+3,roate 20001;lupin 00000;reedy 22222,reedy,1
+2,roate 20001;lupin 00001,renew,1
+2,roate 20001;lupin 00010,acids,3
+3,roate 20001;lupin 00010;acids 00100,river,1
+3,roate 20001;lupin 00010;acids 00101,riser,1
+3,roate 20001;lupin 00010;acids 00110,rider,1
+2,roate 20001;lupin 00012,reign,2
+3,roate 20001;lupin 00012;reign 21102,risen,1
+3,roate 20001;lupin 00012;reign 22222,reign,1
+2,roate 20001;lupin 00022,resin,1
+2,roate 20001;lupin 00210,riper,1
+2,roate 20001;lupin 00212,ripen,1
+2,roate 20001;lupin 01000,rebus,2
+3,roate 20001;lupin 01000;rebus 22020,recur,1
+3,roate 20001;lupin 01000;rebus 22222,rebus,1
+2,roate 20001;lupin 01002,rerun,1
+2,roate 20001;lupin 02000,ruder,1
+2,roate 20001;lupin 10000,rebel,2
+3,roate 20001;lupin 10000;rebel 22022,revel,1
+3,roate 20001;lupin 10000;rebel 22222,rebel,1
+2,roate 20001;lupin 10020,relic,1
+2,roate 20001;lupin 10200,repel,2
+3,roate 20001;lupin 10200;repel 22201,reply,1
+3,roate 20001;lupin 10200;repel 22222,repel,1
+2,roate 20001;lupin 12000,ruler,1
+1,roate 20002,adsum,7
+2,roate 20002;adsum 00000,rifle,1
+2,roate 20002;adsum 00001,rhyme,1
+2,roate 20002;adsum 00010,rupee,1
+2,roate 20002;adsum 00020,revue,1
+2,roate 20002;adsum 00100,rinse,1
+2,roate 20002;adsum 00110,reuse,1
+2,roate 20002;adsum 01000,ridge,1
+1,roate 20010,right,1
+1,roate 20011,ficus,8
+2,roate 20011;ficus 00000,retry,1
+2,roate 20011;ficus 00001,reset,1
+2,roate 20011;ficus 00020,rebut,1
+2,roate 20011;ficus 00100,retch,1
+2,roate 20011;ficus 00220,recut,1
+2,roate 20011;ficus 01000,remit,1
+2,roate 20011;ficus 02000,rivet,1
+2,roate 20011;ficus 11000,refit,1
+1,roate 20020,rusty,1
+1,roate 20100,child,15
+2,roate 20100;child 00000,raspy,2
+3,roate 20100;child 00000;raspy 21000,rumba,1
+3,roate 20100;child 00000;raspy 22222,raspy,1
+2,roate 20100;child 00001,radar,2
+3,roate 20100;child 00001;radar 22100,randy,1
+3,roate 20100;child 00001;radar 22222,radar,1
+2,roate 20100;child 00010,rural,1
+2,roate 20100;child 00020,rally,1
+2,roate 20100;child 00100,rabbi,1
+2,roate 20100;child 00101,radii,1
+2,roate 20100;child 00102,rabid,2
+3,roate 20100;child 00102;rabid 22022,rapid,1
+3,roate 20100;child 00102;rabid 22222,rabid,1
+2,roate 20100;child 00110,rival,1
+2,roate 20100;child 00200,rainy,1
+2,roate 20100;child 01000,rajah,1
+2,roate 20100;child 01010,ralph,1
+2,roate 20100;child 11000,ranch,1
+1,roate 20101,calmy,12
+2,roate 20101;calmy 01000,rebar,2
+3,roate 20101;calmy 01000;rebar 22120,rehab,1
+3,roate 20101;calmy 01000;rebar 22222,rebar,1
+2,roate 20101;calmy 01002,repay,1
+2,roate 20101;calmy 01100,regal,2
+3,roate 20101;calmy 01100;regal 22022,renal,1
+3,roate 20101;calmy 01100;regal 22222,regal,1
+2,roate 20101;calmy 01200,relax,1
+2,roate 20101;calmy 01202,relay,1
+2,roate 20101;calmy 02000,rarer,2
+3,roate 20101;calmy 02000;rarer 22020,raven,1
+3,roate 20101;calmy 02000;rarer 22222,rarer,1
+2,roate 20101;calmy 02010,ramen,1
+2,roate 20101;calmy 11000,recap,1
+2,roate 20101;calmy 12000,racer,1
+1,roate 20102,raise,2
+2,roate 20102;raise 22002,range,1
+2,roate 20102;raise 22222,raise,1
+1,roate 20120,ratty,1
+1,roate 20201,acold,4
+2,roate 20201;acold 10000,rearm,1
+2,roate 20201;acold 10001,ready,1
+2,roate 20201;acold 10020,realm,1
+2,roate 20201;acold 11000,reach,1
+1,roate 20211,react,1
+1,roate 21000,rhino,3
+2,roate 21000;rhino 20001,rumor,1
+2,roate 21000;rhino 20101,rigor,1
+2,roate 21000;rhino 22222,rhino,1
+1,roate 21011,retro,1
+1,roate 21100,rayon,3
+2,roate 21100;rayon 22010,radio,1
+2,roate 21100;rayon 22020,razor,1
+2,roate 21100;rayon 22222,rayon,1
+1,roate 21110,ratio,1
+1,roate 22000,acidy,6
+2,roate 22000;acidy 00000,rough,1
+2,roate 22000;acidy 00002,roomy,1
+2,roate 22000;acidy 00010,round,1
+2,roate 22000;acidy 00022,rowdy,1
+2,roate 22000;acidy 00100,robin,1
+2,roate 22000;acidy 01002,rocky,1
+1,roate 22001,advew,4
+2,roate 22001;advew 00020,roger,1
+2,roate 22001;advew 00021,rower,1
+2,roate 22001;advew 00220,rover,1
+2,roate 22001;advew 01020,rodeo,1
+1,roate 22002,rogue,3
+2,roate 22002;rogue 22012,rouse,1
+2,roate 22002;rogue 22112,rouge,1
+2,roate 22002;rogue 22222,rogue,1
+1,roate 22010,robot,3
+2,roate 22010;robot 22012,roost,1
+2,roate 22010;robot 22021,rotor,1
+2,roate 22010;robot 22222,robot,1
+1,roate 22022,route,1
+1,roate 22100,royal,1
+1,roate 22200,roach,1
+1,roate 22210,roast,1

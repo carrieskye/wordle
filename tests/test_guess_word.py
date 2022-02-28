@@ -22,7 +22,8 @@ class TestGuessWord(unittest.TestCase):
             ["timid 02012", "vivid", True],
             ["timid 01022", "vivid", True],
             ["timid 02022", "vivid", False],
-            ["aarti 21000", "abate", True]
+            ["aarti 21000", "abate", True],
+            ["geeky 21000", "given", False]
         ]
     )
     def test_rules_out(self, guess_word_str: str, word_str: str, rules_out: bool):
@@ -44,6 +45,7 @@ class TestGuessWord(unittest.TestCase):
             ["vivid", "weary", "weary 00000"],
             ["vivid", "valve", "valve 20010"],
             ["vivid", "river", "river 02200"],
+            ["given", "geeky", "geeky 21000"]
         ]
     )
     def test_calculate(self, correct: str, guess: str, guess_word_str: str):
