@@ -1,3 +1,4 @@
+from pathlib import Path
 from typing import List
 
 from rich import print as print_rich
@@ -21,7 +22,7 @@ def play_wordle():
     guesses = []
     best_next_words = {
         x["guess_word"]: x["best_next_word"]
-        for x in File.read_csv("data/best_next_words.csv")
+        for x in File.read_csv(path=Path("data/best_next_words.csv"))
     }
     while len(wordle.possible_words) > 1:
         try:

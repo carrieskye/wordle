@@ -1,4 +1,5 @@
 from copy import deepcopy
+from pathlib import Path
 
 from skye_comlib.utils.file import File
 from tqdm import tqdm
@@ -10,7 +11,7 @@ from src.wordle import Wordle
 
 def get_first_word_scores():
     wordle = Wordle.load_from_file()
-    words_with_scores = File.read_csv("data/first_word_scores.csv")
+    words_with_scores = File.read_csv(path=Path("data/first_word_scores.csv"))
     processed_words = [x["word"] for x in words_with_scores]
     for allowed_word in tqdm(wordle.allowed_words, desc="Calculating scores"):
         if allowed_word.__str__() in processed_words:
@@ -23,13 +24,13 @@ def get_first_word_scores():
             }
         )
     File.write_csv(
-        sorted(words_with_scores, key=lambda x: -1 * float(x["score"])),
-        "data/first_word_scores.csv",
+        contents=sorted(words_with_scores, key=lambda x: -1 * float(x["score"])),
+        path=Path("data/first_word_scores.csv"),
     )
 
 
 def get_best_next_words():
-    best_next_words = File.read_csv("data/best_next_words.csv")
+    best_next_words = File.read_csv(path=Path("data/best_next_words.csv"))
     processed_words = [x["guess_word"] for x in best_next_words]
     for game_round in range(0, 7):
         print(f"GAME ROUND {game_round}")
@@ -77,11 +78,13 @@ def get_best_next_words():
                 )
                 processed_words.append(guess_word_str)
                 best_next_words = sorted(best_next_words, key=lambda x: x["guess_word"])
-                File.write_csv(best_next_words, "data/best_next_words.csv")
+                File.write_csv(
+                    contents=best_next_words, path=Path("data/best_next_words.csv")
+                )
 
 
 if __name__ == "__main__":
-    # get_first_word_scores()
+    get_first_word_scores()
     get_best_next_words()
 
     # TODO: what if you map all the guesses in which you can get the correct word in 6 times?
