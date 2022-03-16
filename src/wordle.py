@@ -1,10 +1,12 @@
 from __future__ import annotations
 
 from collections import defaultdict
-from typing import List
+from typing import List, Dict
 
 from tqdm import tqdm
 from rich import print as print_rich
+
+from src.model.game import Game
 from src.model.guess_word import GuessWord
 from src.model.word import Word
 from src.word_list import WordList
@@ -41,13 +43,16 @@ class Wordle:
         )
         return [x[0] for x in scores]
 
-    def calculate_score(self, word: Word) -> float:
+    def get_guess_word_distribution(self, word: Word) -> Dict[GuessWord, int]:
         guess_words = defaultdict(int)
         for possible_word in tqdm(
             self.possible_words, leave=False, desc=word.__str__()
         ):
             guess_words[GuessWord.calculate(correct=possible_word, guess=word)] += 1
+        return guess_words
 
+    def calculate_score(self, word: Word) -> float:
+        guess_words = self.get_guess_word_distribution(word)
         total_score = 0
         for guess_word, count in tqdm(
             guess_words.items(), leave=False, desc=word.__str__()
@@ -64,8 +69,8 @@ class Wordle:
         )
 
     @classmethod
-    def load_from_file(cls) -> Wordle:
+    def load_from_file(cls, game: Game) -> Wordle:
         return cls(
-            possible_words=WordList.load_possible_words(),
-            allowed_words=WordList.load_allowed_words(),
+            possible_words=WordList.load_possible_words(game),
+            allowed_words=WordList.load_allowed_words(game),
         )

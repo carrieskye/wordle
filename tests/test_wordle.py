@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import pytest
 from skye_comlib.utils.file import File
 
@@ -9,8 +11,8 @@ from src.wordle import Wordle
 @pytest.fixture()
 def wordle():
     return Wordle(
-        possible_words=WordList.load(File.read_txt("../data/possible_words.txt")),
-        allowed_words=WordList.load(File.read_txt("../data/allowed_words.txt")),
+        possible_words=WordList.load(File.read_txt(Path("../data/wordle/possible_words.txt"))),
+        allowed_words=WordList.load(File.read_txt(Path("../data/wordle/allowed_words.txt"))),
     )
 
 
