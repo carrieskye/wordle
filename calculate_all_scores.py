@@ -111,6 +111,20 @@ def get_best_next_words(game: Game):
     for game_round in range(0, 7):
         print(f"GAME ROUND {game_round}")
         for item in [x for x in best_next_words if int(x["round"]) == game_round - 1]:
+            no_of_possibilities = int(item["no_of_possibilities"])
+            if no_of_possibilities == 1:
+                continue
+            no_of_processed_possibilities = sum(
+                [
+                    int(x["no_of_possibilities"])
+                    for x in best_next_words
+                    if x["guess_word"].startswith(item["guess_word"])
+                    and int(x["round"]) > int(item["round"])
+                ]
+            )
+            if no_of_possibilities <= no_of_processed_possibilities:
+                continue
+
             previous_guess_words = []
             if item["guess_word"]:
                 previous_guess_words = [

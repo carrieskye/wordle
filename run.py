@@ -7,10 +7,11 @@ from skye_comlib.utils.file import File
 
 from src.model.game import Game
 from src.model.guess_word import GuessWord
+from src.model.word import Word
 from src.wordle import Wordle
 
 
-def print_try(word: str):
+def print_try(word: Word):
     print_rich(f"Try [bold cyan]{word}\n")
 
 
@@ -28,10 +29,11 @@ def play(game: Game):
     }
     while len(wordle.possible_words) > 1:
         try:
-            print_try(best_next_words[get_key(guesses)])
+            best_next_word = best_next_words[get_key(guesses)]
         except KeyError:
-            print_try(str(wordle.get_allowed_words_sorted()[0]))
-        guess = GuessWord.from_input()
+            best_next_word = wordle.get_allowed_words_sorted()[0]
+        print_try(best_next_word)
+        guess = GuessWord.from_input(best_next_word)
         guesses.append(guess)
         wordle.remove_wrong_words(guess)
         wordle.print_possibilities()

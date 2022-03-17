@@ -110,6 +110,9 @@ class GuessWord:
         )
 
     @classmethod
-    def from_input(cls) -> GuessWord:
-        guess_word_string = input("Guess + score per letter: ")
-        return cls.from_string(guess_word_string)
+    def from_input(cls, word: Word) -> GuessWord:
+        guess_word_string = input(f"Score per letter for {word}: ")
+        if len(str(word)) == len(guess_word_string):
+            return cls.from_string(f"{word} {guess_word_string}")
+        else:
+            return cls.from_string(guess_word_string)
