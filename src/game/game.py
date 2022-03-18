@@ -1,8 +1,8 @@
 from __future__ import annotations
 
-from abc import abstractmethod, ABC
+from abc import ABC, abstractmethod
 from pathlib import Path
-from typing import List, Dict
+from typing import List
 
 from src.model.guess_word import GuessWord
 from src.model.word import Word
@@ -15,23 +15,23 @@ class Game(ABC):
         self.possible_words = possible_words
 
     @abstractmethod
-    def remove_wrong_words(self, guess_word: GuessWord):
+    def remove_wrong_words(self, guess_word: GuessWord, verbose: bool = True):
         pass
 
     @abstractmethod
-    def get_allowed_words_sorted(self) -> List[Word]:
-        pass
-
-    @abstractmethod
-    def get_guess_word_distribution(self, word: Word) -> Dict[GuessWord, int]:
-        pass
-
-    @abstractmethod
-    def calculate_score(self, word: Word) -> float:
+    def get_allowed_words_sorted(self, desc: str = "") -> List[Word]:
         pass
 
     @abstractmethod
     def print_possibilities(self):
+        pass
+
+    @abstractmethod
+    def get_number_of_possibilities(self) -> int:
+        pass
+
+    @abstractmethod
+    def is_final_word(self, word: Word) -> bool:
         pass
 
     @classmethod

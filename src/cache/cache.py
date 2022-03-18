@@ -22,6 +22,11 @@ class Cache(ABC):
     def sort_data(self):
         pass
 
+    def add_result(self, result: dict):
+        self.results.append(result)
+        self.processed.append(result["word"])
+        self.export_data()
+
     def read_data(self, file_name: str) -> list:
         try:
             return File.read_csv(self.data_dir / file_name)

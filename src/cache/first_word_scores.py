@@ -1,9 +1,11 @@
 from typing import List
 
+from rich import print as print_rich
 from tqdm import tqdm
 
 from src.cache.cache import Cache
 from src.config import Config
+from src.game.basic import Basic
 from src.model.word import Word
 
 
@@ -16,16 +18,17 @@ class FirstWordScores(Cache):
 
     def run(self):
         game = self.config.get_game()
+        assert isinstance(game, Basic)
 
         for allowed_word in tqdm(self.get_words_to_process(), desc=self.desc):
-            self.processed.append(str(allowed_word))
-            self.results.append(
+            self.add_result(
                 {
                     "word": str(allowed_word),
                     "score": game.calculate_score(allowed_word),
                 }
             )
-            self.export_data()
+
+        print_rich("[green bold]Finished calculating elimination scores.\n\n")
 
     def sort_data(self):
         self.results.sort(key=lambda x: -1 * float(x["score"]))

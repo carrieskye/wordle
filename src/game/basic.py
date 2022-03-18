@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from collections import defaultdict
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Set
 
 from rich import print as print_rich
 from tqdm import tqdm
@@ -14,27 +14,26 @@ from src.model.word_list import WordList
 
 
 class Basic(Game):
-    def __init__(self, possible_words: WordList, allowed_words: WordList):
+    def __init__(self, allowed_words: WordList, possible_words: WordList):
         super().__init__(allowed_words, possible_words)
 
-        print(
-            f"Loaded {len(self.possible_words)} possible words and "
-            f"{len(self.allowed_words)} allowed words.\n"
-        )
+    def remove_wrong_words(self, guess_word: GuessWord, verbose: bool = True):
+        old_possible_words = len(self.possible_words)
+        self.possible_words = self.possible_words.remove_wrong_words(guess_word)
 
-    def remove_wrong_words(self, guess_word: GuessWord):
-        new_possible_words = self.possible_words.remove_wrong_words(guess_word)
-        print_rich(
-            f"\n[white not bold]Removed words ruled out by {guess_word.get_colour_string()}"
-            f"[white]: went from {len(self.possible_words)} to {len(new_possible_words)} words.\n"
-        )
-        self.possible_words = new_possible_words
+        if verbose:
+            print_rich(
+                f"\n[white not bold]Removed words ruled out by {guess_word.get_colour_string()}"
+                f"[white]: went from {old_possible_words} to {len(self.possible_words)} words."
+                f"\n"
+            )
+            self.print_possibilities()
 
-    def get_allowed_words_sorted(self) -> List[Word]:
+    def get_allowed_words_sorted(self, desc: str = "") -> List[Word]:
         scores = []
         for word in tqdm(
             self.allowed_words,
-            desc=f"Trying {len(self.possible_words)} possibilities",
+            desc=f'"{desc}": trying {len(self.possible_words)} possibilities',
             leave=False,
         ):
             scores.append((word, self.calculate_score(word)))
@@ -50,6 +49,9 @@ class Basic(Game):
         ):
             guess_words[GuessWord.calculate(correct=possible_word, guess=word)] += 1
         return guess_words
+
+    def get_guess_words(self, word: Word) -> Set[GuessWord]:
+        return set(self.get_guess_word_distribution(word).keys())
 
     def calculate_score(self, word: Word) -> float:
         guess_words = self.get_guess_word_distribution(word)
@@ -68,8 +70,16 @@ class Basic(Game):
             f"{', '.join([str(x) for x in self.possible_words])}\n"
         )
 
+    def get_number_of_possibilities(self) -> int:
+        return len(self.possible_words)
+
+    def is_final_word(self, word: Word) -> bool:
+        if self.get_number_of_possibilities() == 1:
+            return self.possible_words[0] == word
+        return False
+
     @classmethod
-    def load_from_file(cls, data_dir: Path) -> Wordle:
+    def load_from_file(cls, data_dir: Path) -> Basic:
         return cls(
             possible_words=WordList.load_possible_words(data_dir),
             allowed_words=WordList.load_allowed_words(data_dir),

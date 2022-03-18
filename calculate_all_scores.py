@@ -11,7 +11,6 @@ if __name__ == "__main__":
     FUNCTION_MAP = {
         "wordle": Configs.WORDLE,
         "nerdle": Configs.NERDLE,
-        "quordle": Configs.QUORDLE,
     }
     parser.add_argument("task", choices=FUNCTION_MAP.keys())
     args = parser.parse_args()

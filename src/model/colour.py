@@ -5,3 +5,4 @@ class Colour(Enum):
     GREEN = 2
     YELLOW = 1
     GRAY = 0
+    WHITE = "."

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 from copy import deepcopy
 from dataclasses import dataclass
 from typing import List, Set
@@ -103,7 +104,9 @@ class GuessWord:
             guess_word_letters=[
                 GuessWordLetter(
                     word_letter=WordLetter(index, Letter(letter)),
-                    colour=Colour(int(scores[index])),
+                    colour=Colour(int(scores[index]))
+                    if scores[index] != "."
+                    else Colour.WHITE,
                 )
                 for index, letter in enumerate(list(word))
             ]
@@ -112,7 +115,38 @@ class GuessWord:
     @classmethod
     def from_input(cls, word: Word) -> GuessWord:
         guess_word_string = input(f"Score per letter for {word}: ")
-        if len(str(word)) == len(guess_word_string):
+        if re.fullmatch(r"[0-9]{5,8}", guess_word_string):
             return cls.from_string(f"{word} {guess_word_string}")
-        else:
+        if re.fullmatch(r"[a-z0-9+\-*/=]{5,8} [0-9]{5,8}", guess_word_string):
             return cls.from_string(guess_word_string)
+        if re.fullmatch(r"([0-9]{5}.?){1,4}", guess_word_string):
+            word_string = f"{word}.{word}.{word}.{word}"[: len(guess_word_string)]
+            return cls.from_string(f"{word_string} {guess_word_string}")
+        if re.fullmatch(r"[a-z]{5} ([0-9]{5}.?){4}", guess_word_string):
+            new_word = guess_word_string.split(" ")[0]
+            word_string = f"{new_word}.{new_word}.{new_word}.{new_word}"[
+                : len(guess_word_string.split()[1])
+            ]
+            return cls.from_string(f"{word_string} {guess_word_string.split()[1]}")
+        raise Exception()
+
+    @classmethod
+    def from_quordle_input(cls, word: Word) -> List[GuessWord]:
+        guess_word_string = input(f"Score per letter for {word}: ")
+        if " " in guess_word_string:
+            word = Word.from_string(guess_word_string.split(" ")[0])
+            guess_word_string = guess_word_string.split(" ")[1]
+        guess_words = []
+        for colour_code in guess_word_string.split("-"):
+            guess_words.append(GuessWord.from_string(f"{word} {colour_code}"))
+        return guess_words
+
+    def split_quordle(self) -> List[GuessWord]:
+        word_str, score_str = str(self).split()
+        words = word_str.split(".")
+        scores = score_str.split(".")
+
+        guess_words = []
+        for index, word in enumerate(words):
+            guess_words.append(GuessWord.from_string(f"{word} {scores[index]}"))
+        return guess_words

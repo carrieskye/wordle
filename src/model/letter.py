@@ -43,3 +43,4 @@ class Letter(Enum):
     PRODUCT = "*"
     DIVISION = "/"
     EQUALS = "="
+    DOT = "."
