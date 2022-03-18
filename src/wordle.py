@@ -1,21 +1,22 @@
 from __future__ import annotations
 
 from collections import defaultdict
+from pathlib import Path
 from typing import List, Dict
 
-from tqdm import tqdm
 from rich import print as print_rich
+from tqdm import tqdm
 
-from src.model.game import Game
+from src.game import Game
 from src.model.guess_word import GuessWord
 from src.model.word import Word
 from src.word_list import WordList
 
 
-class Wordle:
+class Wordle(Game):
     def __init__(self, possible_words: WordList, allowed_words: WordList):
+        super().__init__(allowed_words)
         self.possible_words = possible_words
-        self.allowed_words = allowed_words
 
         print(
             f"Loaded {len(self.possible_words)} possible words and "
@@ -69,8 +70,8 @@ class Wordle:
         )
 
     @classmethod
-    def load_from_file(cls, game: Game) -> Wordle:
+    def load_from_file(cls, data_dir: Path) -> Wordle:
         return cls(
-            possible_words=WordList.load_possible_words(game),
-            allowed_words=WordList.load_allowed_words(game),
+            possible_words=WordList.load_possible_words(data_dir),
+            allowed_words=WordList.load_allowed_words(data_dir),
         )

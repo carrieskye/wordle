@@ -1,11 +1,10 @@
 import argparse
-from pathlib import Path
 from typing import List
 
 from rich import print as print_rich
 from skye_comlib.utils.file import File
 
-from src.model.game import Game
+from src.config import Configs, Config
 from src.model.guess_word import GuessWord
 from src.model.word import Word
 from src.wordle import Wordle
@@ -19,13 +18,13 @@ def get_key(guesses: List[GuessWord]) -> str:
     return ";".join([x.__str__() for x in guesses])
 
 
-def play(game: Game):
-    wordle = Wordle.load_from_file(game)
+def play(config: Config):
+    wordle = Wordle.load_from_file(config.data_dir)
     wordle.print_possibilities()
     guesses = []
     best_next_words = {
         x["guess_word"]: x["best_next_word"]
-        for x in File.read_csv(path=Path(f"data/{game.value}/best_next_words.csv"))
+        for x in File.read_csv(path=config.data_dir / "best_next_words.csv")
     }
     while len(wordle.possible_words) > 1:
         try:
@@ -42,7 +41,7 @@ def play(game: Game):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    FUNCTION_MAP = {"wordle": Game.WORDLE, "nerdle": Game.NERDLE}
+    FUNCTION_MAP = {"wordle": Configs.WORDLE, "nerdle": Configs.NERDLE, "quordle": Configs.QUORDLE}
     parser.add_argument("task", choices=FUNCTION_MAP.keys())
     args = parser.parse_args()
     play(FUNCTION_MAP[args.task])

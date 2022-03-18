@@ -7,7 +7,6 @@ from typing import List
 from skye_comlib.utils.file import File
 from tqdm import tqdm
 
-from src.model.game import Game
 from src.model.guess_word import GuessWord
 from src.model.word import Word
 
@@ -37,14 +36,12 @@ class WordList(List[Word]):
         return cls([Word.from_string(word) for word in sorted(words)])
 
     @classmethod
-    def load_possible_words(cls, game: Game) -> WordList:
-        return cls.load(
-            File.read_txt(path=Path(f"data/{game.value}/possible_words.txt"))
-        )
+    def load_possible_words(cls, data_dir: Path) -> WordList:
+        return cls.load(File.read_txt(path=data_dir / "possible_words.txt"))
 
     @classmethod
-    def load_allowed_words(cls, game: Game) -> WordList:
+    def load_allowed_words(cls, data_dir: Path) -> WordList:
         return cls.load(
-            File.read_txt(path=Path(f"data/{game.value}/allowed_words.txt"))
-            + File.read_txt(path=Path(f"data/{game.value}/possible_words.txt"))
+            File.read_txt(path=data_dir / "allowed_words.txt")
+            + File.read_txt(path=data_dir / "possible_words.txt")
         )
