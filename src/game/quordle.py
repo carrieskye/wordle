@@ -8,10 +8,10 @@ from typing import List, Dict
 from rich import print as print_rich
 from tqdm import tqdm
 
-from src.game import Game
+from src.game.game import Game
 from src.model.guess_word import GuessWord
 from src.model.word import Word
-from src.word_list import WordList
+from src.model.word_list import WordList
 
 
 class Quordle(Game):
@@ -22,16 +22,25 @@ class Quordle(Game):
         pass
 
     def __init__(self, possible_words: WordList, allowed_words: WordList):
-        super().__init__(allowed_words)
-        self.possible_words = [
+        self.possible_words_per_sub_game = [
             deepcopy(possible_words),
             deepcopy(possible_words),
             deepcopy(possible_words),
             deepcopy(possible_words),
         ]
+        super().__init__(
+            allowed_words,
+            WordList(
+                [
+                    word
+                    for word_list in self.possible_words_per_sub_game
+                    for word in word_list
+                ]
+            ),
+        )
 
         print(
-            f"Loaded {len(self.possible_words[0])} possible words and "
+            f"Loaded {len(self.possible_words)} possible words and "
             f"{len(self.allowed_words)} allowed words.\n"
         )
 

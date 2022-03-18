@@ -6,12 +6,13 @@ from typing import List, Dict
 
 from src.model.guess_word import GuessWord
 from src.model.word import Word
-from src.word_list import WordList
+from src.model.word_list import WordList
 
 
 class Game(ABC):
-    def __init__(self, allowed_words: WordList):
+    def __init__(self, allowed_words: WordList, possible_words: WordList):
         self.allowed_words = allowed_words
+        self.possible_words = possible_words
 
     @abstractmethod
     def remove_wrong_words(self, guess_word: GuessWord):

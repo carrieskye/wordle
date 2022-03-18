@@ -1,4 +1,4 @@
-round,guess_word,best_next_word,no_of_possibilities
+round,word,best_next_word,no_of_possibilities
 0,,roate,2315
 1,roate 00000,slimy,195
 2,roate 00000;slimy 00000,hanap,5

@@ -7,16 +7,15 @@ from typing import List, Dict
 from rich import print as print_rich
 from tqdm import tqdm
 
-from src.game import Game
+from src.game.game import Game
 from src.model.guess_word import GuessWord
 from src.model.word import Word
-from src.word_list import WordList
+from src.model.word_list import WordList
 
 
-class Wordle(Game):
+class Basic(Game):
     def __init__(self, possible_words: WordList, allowed_words: WordList):
-        super().__init__(allowed_words)
-        self.possible_words = possible_words
+        super().__init__(allowed_words, possible_words)
 
         print(
             f"Loaded {len(self.possible_words)} possible words and "

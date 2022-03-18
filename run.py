@@ -7,7 +7,6 @@ from skye_comlib.utils.file import File
 from src.config import Configs, Config
 from src.model.guess_word import GuessWord
 from src.model.word import Word
-from src.wordle import Wordle
 
 
 def print_try(word: Word):
@@ -19,29 +18,33 @@ def get_key(guesses: List[GuessWord]) -> str:
 
 
 def play(config: Config):
-    wordle = Wordle.load_from_file(config.data_dir)
-    wordle.print_possibilities()
+    game = config.get_game()
+    game.print_possibilities()
     guesses = []
     best_next_words = {
         x["guess_word"]: x["best_next_word"]
         for x in File.read_csv(path=config.data_dir / "best_next_words.csv")
     }
-    while len(wordle.possible_words) > 1:
+    while len(game.possible_words) > 1:
         try:
             best_next_word = best_next_words[get_key(guesses)]
         except KeyError:
-            best_next_word = wordle.get_allowed_words_sorted()[0]
+            best_next_word = game.get_allowed_words_sorted()[0]
         print_try(best_next_word)
         guess = GuessWord.from_input(best_next_word)
         guesses.append(guess)
-        wordle.remove_wrong_words(guess)
-        wordle.print_possibilities()
+        game.remove_wrong_words(guess)
+        game.print_possibilities()
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
 
-    FUNCTION_MAP = {"wordle": Configs.WORDLE, "nerdle": Configs.NERDLE, "quordle": Configs.QUORDLE}
+    FUNCTION_MAP = {
+        "wordle": Configs.WORDLE,
+        "nerdle": Configs.NERDLE,
+        "quordle": Configs.QUORDLE,
+    }
     parser.add_argument("task", choices=FUNCTION_MAP.keys())
     args = parser.parse_args()
     play(FUNCTION_MAP[args.task])
