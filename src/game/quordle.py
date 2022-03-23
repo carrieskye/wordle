@@ -20,13 +20,13 @@ class Quordle(Game):
 
     def remove_wrong_words(self, guess_word: GuessWord, verbose: bool = True):
         for index, quordle_guess_word in enumerate(guess_word.split_quordle()):
-            self.wordle_list[index].remove_wrong_words(quordle_guess_word)
+            if not self.correct_words[index]:
+                self.wordle_list[index].remove_wrong_words(quordle_guess_word)
 
     def get_allowed_words_sorted(self, desc: str = "") -> List[Word]:
         for index, wordle in enumerate(self.wordle_list):
             if len(wordle.possible_words) == 1 and not self.correct_words[index]:
                 self.correct_words[index] = wordle.possible_words[0]
-                self.wordle_list.pop(index)
                 return wordle.possible_words
 
         scores = []
@@ -53,13 +53,6 @@ class Quordle(Game):
         return sum(
             [wordle.get_number_of_possibilities() for wordle in self.wordle_list]
         )
-
-    def is_final_word(self, word: Word) -> bool:
-        for index, wordle in enumerate(self.wordle_list):
-            if wordle.is_final_word(word):
-                self.wordle_list.pop(index)
-                return True
-        return False
 
     @classmethod
     def load_from_file(cls, data_dir: Path) -> Quordle:

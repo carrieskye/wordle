@@ -73,11 +73,6 @@ class Basic(Game):
     def get_number_of_possibilities(self) -> int:
         return len(self.possible_words)
 
-    def is_final_word(self, word: Word) -> bool:
-        if self.get_number_of_possibilities() == 1:
-            return self.possible_words[0] == word
-        return False
-
     @classmethod
     def load_from_file(cls, data_dir: Path) -> Basic:
         return cls(

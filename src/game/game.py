@@ -30,10 +30,6 @@ class Game(ABC):
     def get_number_of_possibilities(self) -> int:
         pass
 
-    @abstractmethod
-    def is_final_word(self, word: Word) -> bool:
-        pass
-
     @classmethod
     @abstractmethod
     def load_from_file(cls, data_dir: Path) -> Game:

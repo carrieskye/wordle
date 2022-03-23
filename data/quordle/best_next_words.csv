@@ -1,4 +1,10 @@
 round,word,best_next_word,no_of_possibilities
 0,,roate,9260
+1,roate.roate.roate.roate 00000.00002.00000.00200,clips,544
+2,roate.roate.roate.roate 00000.00002.00000.00200;clips.clips.clips.clips 02201.10001.00000.10001,scene,18
+1,roate.roate.roate.roate 11000.10000.00010.00202,clips,225
+2,roate.roate.roate.roate 11000.10000.00010.00202;clips.clips.clips.clips 01000.10210.00110.00011,prick,8
+1,roate.roate.roate.roate 11100.01002.10000.00100,limns,233
+2,roate.roate.roate.roate 11100.01002.10000.00100;limns.limns.limns.limns 00001.00000.00000.00010,savor,13
 1,roate.roate.roate.roate 11100.10001.01000.00202,linds,238
 2,roate.roate.roate.roate 11100.10001.01000.00202;linds.linds.linds.linds 00000.01010.02101.10000,bison,27
